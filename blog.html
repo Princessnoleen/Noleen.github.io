@@ -1,22 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
+<style type="text/css">
+.container {
+	width: 960px;
+	left: auto;
+	right: auto;
+}
+.column {
+	float: left;
+	
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.row {
+	overflow: hidden;
+}
+.one-whole {
+	width: 940px;
+}
+.three-quarters {
+	width: 700px;
+}
+.one-half {
+	width: 460px;
+}
+.two-thirds {
+	width: 620px;
+}
+.one-third {
+	width: 300px;
+}
+.one-sixth {
+	width: 140px;
+}
+.alpha {
+	margin-left: 0px;
+}
+.omega {
+	margin-right: 0px;
+}
+nav ul li {
+	display: inline-block;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
+.img-responsive {
+	height: auto;
+	width: 100%;
+}
+</style>
 
-<header>
+
+<link rel="stylesheet" href="css/style.css">
 <title>Simply Flat</title>
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
     
 <body>
-<nav>
-<a href="index.html" style="text-decoration:none">Home&nbsp;&nbsp;&nbsp;</a>
+<nav class="two-thirds column">
+<ul>
+<li>
+<a href="index.html" style="text-decoration:none">Home&nbsp;&nbsp;&nbsp;</a></li>
   <!-- Link, make href attribute value = "index.html" -->
-<a href="about.html" style="text-decoration:none">About US&nbsp;&nbsp;&nbsp;</a>
+<li><a href="about.html" style="text-decoration:none">About US&nbsp;&nbsp;&nbsp;</a></li>
 <!-- Link, make href attribute value = "about.html" -->
-<a href="portfolio.html" style="text-decoration:none">Portfolio&nbsp;&nbsp;&nbsp;</a>
+<li><a href="portfolio.html" style="text-decoration:none">Portfolio&nbsp;&nbsp;&nbsp;</a></li>
 <!-- Link, make href attribute value = "portfolio.html" -->
-<a href="blog.html" style="text-decoration:none">Blog&nbsp;&nbsp;&nbsp;</a>
+<li><a href="blog.html" style="text-decoration:none">Blog&nbsp;&nbsp;&nbsp;</a></li>
 <!-- Link, make href attribute value = "blog.html" -->
-<a href="contact.html" style="text-decoration:none">Contact Us&nbsp;&nbsp;&nbsp;</a>
+<li><a href="contact.html" style="text-decoration:none">Contact Us&nbsp;&nbsp;&nbsp;</a></li>
+</ul>
 </nav>
+
 
 <section><h1>Blog</h1></section>
 
@@ -132,8 +188,8 @@ Anim moon officia Unify is an incredibly beautiful responsive</p></article>
 
 <!-- Heading 3 -->
 <section><h3>Photos</h3></section>
-<footer>
-
+<footer class="row">
+ <div class="one-third column">
 <!-- Image, path to image is "http://lorempixel.com/100/100/technics/1", enter "Technical" for alt attribute value -->
 <img src="http://lorempixel.com/100/100/technics/1" alt="Technical" />
 <!-- Image, path to image is "http://lorempixel.com/100/100/technics/2", enter "Technical" for alt attribute value -->

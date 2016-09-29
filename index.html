@@ -1,29 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
+<style type="text/css">
+.container {
+	width: 960px;
+	left: auto;
+	right: auto;
+}
+.column {
+	float: left;
+	
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.row {
+	overflow: hidden;
+}
+.one-whole {
+	width: 940px;
+}
+.three-quarters {
+	width: 700px;
+}
+.one-half {
+	width: 460px;
+}
+.two-thirds {
+	width: 620px;
+}
+.one-third {
+	width: 300px;
+}
+.one-sixth {
+	width: 140px;
+}
+.alpha {
+	margin-left: 0px;
+}
+.omega {
+	margin-right: 0px;
+}
+nav ul li {
+	display: inline-block;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
+.img-responsive {
+	height: auto;
+	width: 100%;
+}
+</style>
 
-<header>
+<link rel="stylesheet" href="file:///C|/Users/denole4aol.com/Desktop/css/style.css">
 <title>Simply Flat</title>
+
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
 
 <body>
-<nav>
-<h1><a href="index.html" style="text-decoration:none">Simply Flat</a></h1><!-- Heading 1, make a link and use "index.html" for href attribute value -->
-<a href="index.html" style="text-decoration:none">Home&nbsp;&nbsp;&nbsp;</a>
-  <!-- Link, make href attribute value = "index.html" -->
-<a href="about.html" style="text-decoration:none">About US&nbsp;&nbsp;&nbsp;</a>
-<!-- Link, make href attribute value = "about.html" -->
-<a href="portfolio.html" style="text-decoration:none">Portfolio&nbsp;&nbsp;&nbsp;</a>
-<!-- Link, make href attribute value = "portfolio.html" -->
-<a href="blog.html" style="text-decoration:none">Blog&nbsp;&nbsp;&nbsp;</a>
-<!-- Link, make href attribute value = "blog.html" -->
-<a href="contact.html" style="text-decoration:none">Contact Us&nbsp;&nbsp;&nbsp;</a>
-</nav>
+<div class="container">
+<header class="row">
+</div>
 
-<!-- Link, make href attribute value = "contact.html" -->
-   <a href="contact.html">contact</a> 
-    
-<!-- Heading 1 -->
+<nav class="two-thirds column">
+<ul>
+<li>
+<a href="index.html" style="text-decoration:none">Home&nbsp;&nbsp;&nbsp;</a></li>
+  <!-- Link, make href attribute value = "index.html" -->
+<li><a href="about.html" style="text-decoration:none">About US&nbsp;&nbsp;&nbsp;</a></li>
+<!-- Link, make href attribute value = "about.html" -->
+<li><a href="portfolio.html" style="text-decoration:none">Portfolio&nbsp;&nbsp;&nbsp;</a></li>
+<!-- Link, make href attribute value = "portfolio.html" -->
+<li><a href="blog.html" style="text-decoration:none">Blog&nbsp;&nbsp;&nbsp;</a></li>
+<!-- Link, make href attribute value = "blog.html" -->
+<li><a href="contact.html" style="text-decoration:none">Contact Us&nbsp;&nbsp;&nbsp;</a></li>
+
+</ul></nav>
+<!-- Link, make href attribute value = "contact.html" --><!-- Heading 1 -->
 <section>
+
     <h1>
         This theme is flat, fun and easy to customize.</h1>
 </section>
@@ -40,7 +95,7 @@
   <a href="#">See Our Clients</a>
   
   <!-- Image, path to image is "images/home-banner.png", enter "Laptop" for alt attribute value -->
-   <img src="images/home-banner.png" alt="Laptop">
+   <img src="file:///C|/Users/denole4aol.com/Desktop/images/home-banner.png" alt="Laptop">
   
   <!-- Heading 3, make "Find Out More" a link and use "#" for href attribute value -->
   <section>
@@ -93,7 +148,7 @@
 <!-- Paragraph -->
 <p>Dolor sit amet</p>
 <!-- Image, path to image is "images/responsive.png", enter "Responsive" for alt attribute value -->
-<img src="images/responsive.png" alt="Responsive">
+<img src="file:///C|/Users/denole4aol.com/Desktop/images/responsive.png" alt="Responsive">
 </article>
 
 <!-- Heading 2 -->
@@ -125,9 +180,9 @@
 
   
   <!-- Heading 4 -->
-
- <section>
-<h4>Simply Flat</h4></section>
+<footer class="row">
+ <div class="one-third column">
+ <h4>Simply Flat</h4>
 
 <article>
 <p>
@@ -137,7 +192,7 @@
 <section>
 <h4>
     Testimonials</h4>
-    </section></div>
+  </section></div>
 
 <!-- Paragraph -->
 <article><p>Consectetur adipiscing elit. Pellentesque eu posuere leo. Pellentesque a lobortis erat. Maecenas vel metus vitae urna sollicitudin eleifend a vel elit.
@@ -157,21 +212,25 @@
 <li>info@example.com</li></ul>
 </article>
 <!-- Heading 4 -->
-<section><div>
-<h4>We're Social</h4></div>
+
+<section><div class="one-whole column">
+  <h4>We're Social</h4>
+
 
 </section>
 <!-- Social media icons go here - You will add them later -->
 
 <!-- Paragraph -->
 <section>
-<div>
+
+  <div class="one-half column">
     <p>&copy; 2013 Simply Flat</p>
-    </div>
-    </section>
-    </footer>
-</body>
-</header>
+ <div class="one-half column">
+    <p>Theme by <a href="#">Northify</a></p>
+  </div>
+  </section>
+</footer>
+
 </html>
 <!-- Paragraph, m
 
