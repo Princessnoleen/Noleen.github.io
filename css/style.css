@@ -1,6 +1,8 @@
-<style type="text/css">
+<style type="text/css"> @charset "UTF-8";
 
 /* CSS Document */
+
+
 /* Box sizing */
 
 html {
@@ -162,6 +164,19 @@ float: right;
 .portfolio-title {
     display: none;
     /* hide portfolio image text */
+}
+
+.info li {
+    display: inline-block;
+}
+
+.sidebar {
+    padding: 10px;
+}
+
+.recent-entries img {
+    float: left;
+    padding-right: 10px;
 }
 
 
