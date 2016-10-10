@@ -96,9 +96,9 @@ ul {
     padding-top: 60px;
 }
 
-.pull-right {}
-
-float: right;
+.pull-right {
+    float: right;
+}
 
 /*footer CSS*/
 
