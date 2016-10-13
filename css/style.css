@@ -19,6 +19,33 @@ html {
     box-sizing: border-box;
 }
 
+/* Body Tag Selector Role */
+
+p {
+   color:#808080;
+   background-color:#d3d3d3;
+    text-align:center;
+}
+
+.h1 {
+    color:#a9a9a9;
+}
+
+.h2 {
+    color:#A9A9A9;
+}
+
+.h3 {
+    color:#A9A9A9;
+}
+
+.h4 {
+    color:#A9A9A9;
+}
+
+.h5 {
+    color:#FFFFFF;
+}
 
 /* GRID RULES */
 
