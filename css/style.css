@@ -151,7 +151,7 @@ ul {
 
 .footer4 {
 	color: #FFFFFF;
-	
+	background-color: #000000;
 }
 
 .footer-bottom {
@@ -162,6 +162,7 @@ ul {
 
 .footer p {
 	color: #cccccc;
+	background-color: #000000;
 }
 /*Main Content */
 
