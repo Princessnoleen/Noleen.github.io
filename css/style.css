@@ -96,6 +96,10 @@ p {
     width: 140px;
 }
 
+.one-quarter {
+    width: 220px;
+}
+
 .alpha {
     margin-left: 0px;
 }
@@ -146,15 +150,20 @@ ul {
 .footer4 {
 	color: #FFF;
 }
+.footer-bottom {
+	color: #FFF;
+	background-color: #000;
+}
 .footer p {
 	color: #CCC;
 }
-
 /*Main Content */
 
 .page-header {
     padding-top: 30px;
     margin-bottom: 50px;
+	background-color: #40E0D0;
+	color: #FFF;
 }
 
 .page-header p {
@@ -169,8 +178,12 @@ ul {
 }
 
 .message {
-    padding-top: 60px;
-    padding-bottom: 60px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #00CED1;
+}
+.message h3 {
+	color: #FFF;
 }
 
 .main-content-top h1 {
@@ -186,7 +199,43 @@ ul {
     height: 210px;
 }
 
+.contentbox {
+	background-color: #FFF;
+	padding: 10px;
+	margin-bottom: 70px;
+}
+.contentbox li {
+	color: #333;
+}
 
+.contentbox-beige {
+	background-color: #faebd7;
+	padding: 10px;
+	margin-bottom: 70px;
+}
+
+.contentbox-turquoise {
+	background-color: #00e5ee;
+	padding: 10px;
+	margin-bottom: 70px;
+}
+
+.contentbox>img {
+	float: left;
+	margin-right: 15px;
+}
+
+.content-beige>img {
+	float: left;
+	margin-right: 15px;
+}
+
+.tile {
+	background-color: #00e5ee;
+	color: #FFF;
+	padding: 10px;
+	margin-bottom: 10px;
+}
 /*ABOUT PAGE*/
 
 .team h1 {
@@ -242,6 +291,14 @@ ul {
     padding-right: 10px;
     padding-bottom: 10px;
 }
+
+.blog-tease {
+	color: #FFF;	
+}
+.blog-tease h2 {
+	color: #FFF;
+}
+
 
 /*CONTACT PAGE*/
 
