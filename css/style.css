@@ -1,4 +1,5 @@
-<style type="text/css"> @charset "UTF-8";
+<style type="text/css"> 
+@charset "UTF-8";
 
 /* CSS Document */
 
@@ -44,6 +45,13 @@ p {
 
 .h5 {
     color:#FFFFFF;
+}
+
+.header {
+	background-color: #333;
+}
+.main {
+	background-color: #CCC;
 }
 
 /* GRID RULES */
@@ -132,6 +140,15 @@ ul {
     text-align: center;
 }
 
+.footer {
+	background-color: #333;
+}
+.footer4 {
+	color: #FFF;
+}
+.footer p {
+	color: #CCC;
+}
 
 /*Main Content */
 
@@ -235,3 +252,4 @@ ul {
 }
 
 </style>
+
