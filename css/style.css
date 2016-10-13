@@ -161,7 +161,7 @@ ul {
 }
 
 .footer p {
-	color: #CCC;
+	color: #cccccc;
 }
 /*Main Content */
 
@@ -189,7 +189,7 @@ ul {
 	background-color: #00CED1;
 }
 .message h3 {
-	color: #FFF;
+	color: #FFFFFF;
 }
 
 .main-content-top h1 {
@@ -206,12 +206,12 @@ ul {
 }
 
 .contentbox {
-	background-color: #FFF;
+	background-color: #FFFFFF;
 	padding: 10px;
 	margin-bottom: 70px;
 }
 .contentbox li {
-	color: #333;
+	color: #333333;
 }
 
 .contentbox-beige {
@@ -238,7 +238,7 @@ ul {
 
 .tile {
 	background-color: #00e5ee;
-	color: #FFF;
+	color: #FFFFFF;
 	padding: 10px;
 	margin-bottom: 10px;
 }
@@ -299,10 +299,10 @@ ul {
 }
 
 .blog-tease {
-	color: #FFF;	
+	color: #FFFFFF;	
 }
 .blog-tease h2 {
-	color: #FFF;
+	color: #FFFFFF;
 }
 
 
