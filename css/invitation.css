@@ -41,6 +41,9 @@ h1 {
     font-family: 'Roboto', sans-serif;
     color:#bfffff;
     padding-top: 10px;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
     border-color: red;
  }
 
