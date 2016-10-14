@@ -30,6 +30,15 @@ html {
  margin-bottom: 50px;
 }
 
+fallingLeaves span {
+display: inline-block;
+width: 80px;
+height: 80px;
+margin: -280px 40px 54px -34px;
+background:url(“http://www.pngall.com/wp-content/uploads/2016/07/Canada-Leaf-Free-PNG-Image.png”);
+
+}
+
 /* Body Tag Selector Role */
 
 p {
@@ -50,17 +59,6 @@ h2 {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: orange;
-}
-
-/* Background */
-
-fallingLeaves span {
-display: inline-block;
-width: 80px;
-height: 80px;
-margin: -280px 40px 54px -34px;
-background:url(“http://www.pngall.com/wp-content/uploads/2016/07/Canada-Leaf-Free-PNG-Image.png”);
-
 }
 
 </style>
