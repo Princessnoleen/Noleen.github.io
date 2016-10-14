@@ -26,13 +26,14 @@ html {
 h1 {
     padding-top: 30px;
     margin-bottom: 50px;
-	background-color: #40E0D0;
+    background-color: #40E0D0;
     font-family: 'Roboto', sans-serif;
     color:#808080;
 }
 
 h2 {
-    padding-left: 15px; 
+    padding-top: 30px;
+    margin-bottom: 50px;
     font-family: 'Taviraj', serif;
    color:#808080;
 }
