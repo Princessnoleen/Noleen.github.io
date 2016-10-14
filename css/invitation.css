@@ -32,14 +32,16 @@ html {
 
 /* Body Tag Selector Role */
 
+body {
+    background-image: url("https://github.com/Princessnoleen/Princessnoleen.github.io/edit/master/css/invitation.css");
+}
+
 h1 {
-    border-style: dashed;
     font-family: 'Roboto', sans-serif;
     padding-top: 10px;
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: red;
  }
 
 h2 {
