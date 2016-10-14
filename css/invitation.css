@@ -23,20 +23,28 @@ html {
     box-sizing: border-box;
 }
 
+/*Main Content */
+.page-header {
+ padding-top: 30px;
+ margin-bottom: 50px;
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}
+
 /* Body Tag Selector Role */
 
 h1 {
     padding-top: 10px;
     font-family: 'Roboto', sans-serif;
     color:#808080;
-   background color:"#E6E6FA"
-	
+ 	
 }
 
 h2 {
     padding-top: 10px;
     font-family: 'Taviraj', serif;
     color:#808080;
+   background-color: #40E0D0;
  
 }
 
