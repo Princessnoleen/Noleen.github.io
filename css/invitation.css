@@ -10,14 +10,10 @@
 /*Main Content */
 
 html {
-    
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-    -webkit-animation-delay: 2s; /* Chrome, Safari, Opera */
-    animation: mymove 5s infinite;
-    animation-delay: 2s;
+    border: 10px solid transparent;
 }
 
 *,
