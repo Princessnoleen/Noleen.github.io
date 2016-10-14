@@ -51,6 +51,7 @@ h2 {
     border-right-width: 10px;
     border-color: orange;
 }
+
 /* Background */
 fallingLeaves span {
 display: inline-block;
@@ -58,5 +59,6 @@ width: 80px;
 height: 80px;
 margin: -280px 40px 54px -34px;
 background:url(“leaf.png”);
+}
 
 </style>
