@@ -38,9 +38,9 @@ p {
 
 h1 {
     border-style: dashed;
-    padding-top: 10px;
     font-family: 'Roboto', sans-serif;
     color:#bfffff;
+    padding-top: 10px;
     border-color: red;
  }
 
