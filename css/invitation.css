@@ -32,10 +32,6 @@ html {
 
 /* Body Tag Selector Role */
 
-body {
-    background-image: url("paper.gif");
-}
-
 h1 {
     font-family: 'Roboto', sans-serif;
     padding-top: 10px;
