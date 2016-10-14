@@ -9,8 +9,6 @@
 
 /*Main Content */
 
-<i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i>
-
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -37,7 +35,8 @@ h1 {
 h2 {
     padding-top: 10px;
     font-family: 'Taviraj', serif;
-   color:#808080;
+    color:#808080;
+    <i class="fa fa-sign-language" aria-hidden="true"></i>
 }
 
 
