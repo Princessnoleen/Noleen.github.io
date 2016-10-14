@@ -24,15 +24,45 @@ html {
 /* Body Tag Selector Role */
 
 h1 {
-   font-family: 'Roboto', sans-serif;
-  color:#808080;
-
+    padding-top: 30px;
+    margin-bottom: 50px;
+	background-color: #40E0D0;
+    font-family: 'Roboto', sans-serif;
+    color:#808080;
 }
 
 h2 {
-   font-family: 'Taviraj', serif;
-  color:#808080;
+    padding-left: 15px; 
+    font-family: 'Taviraj', serif;
+   color:#808080;
 }
+
+/*footer CSS*/
+
+.social {
+    text-align: center;
+}
+
+.footer {
+	background-color: #333333;
+	
+}
+
+.footer4 {
+	color: #FFFFFF;
+}
+
+.footer-bottom {
+	color: #FFFFFF;
+	background-color: #000000;
+	
+}
+
+.footer p {
+	color: #cccccc;
+	background-color: #000000;
+}
+/*Main Content */
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border" aria-hidden="true"></i>
 
