@@ -28,13 +28,12 @@ html {
 .page-header {
  padding-top: 30px;
  margin-bottom: 50px;
- background:url(“http://www.pngall.com/wp-content/uploads/2016/07/Canada-Leaf-Free-PNG-Image.png”);
 }
 
 /* Body Tag Selector Role */
 
 p {
-    border: 10px solid red;
+    border: 20px solid red;
 }
 
 h1 {
