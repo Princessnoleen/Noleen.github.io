@@ -24,13 +24,13 @@ html {
 /* Body Tag Selector Role */
 
 h1 {
-    padding-top: 30px;
+    padding-top: 10px;
     font-family: 'Roboto', sans-serif;
     color:#808080;
 }
 
 h2 {
-    padding-top: 30px;
+    padding-top: 10px;
     font-family: 'Taviraj', serif;
    color:#808080;
 }
