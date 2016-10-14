@@ -37,11 +37,12 @@ p {
 }
 
 h1 {
+    border-style: dashed;
     padding-top: 10px;
     font-family: 'Roboto', sans-serif;
     color:#bfffff;
- 	
-}
+    border-color: red;
+ }
 
 h2 {
     border-style: dashed;
