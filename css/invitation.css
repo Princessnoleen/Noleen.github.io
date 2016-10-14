@@ -32,14 +32,9 @@ html {
 
 /* Body Tag Selector Role */
 
-p {
-    border: 20px solid red;
-}
-
 h1 {
     border-style: dashed;
     font-family: 'Roboto', sans-serif;
-    color:#bfffff;
     padding-top: 10px;
     border-width: 3px;
     border-left-width: 10px;
