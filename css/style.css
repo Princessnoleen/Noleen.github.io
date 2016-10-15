@@ -22,24 +22,35 @@ html {
 
 /* Body Tag Selector Role */
 
+ body {
+    font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
 p {
+   font-size:18px;
    color:#808080;
    background-color:#d3d3d3;
 }
 
 h1 {
+    font-size:38px;
     color:#a9a9a9;
 }
 
 h2 {
+    font-size:32px;
     color:#A9A9A9;
 }
 
 h3 {
+    font-size:24px;
     color:#A9A9A9;
 }
 
 h4 {
+    font-size:18px;
     color:#A9A9A9;
 }
 
@@ -112,9 +123,14 @@ nav ul li {
     display: inline-block;
 }
 
+a {
+     text-decoration: none;
+}
+
 ul {
     list-style-type: none;
     padding: 0px;
+    margin: 0;
 }
 
 .img-responsive {
@@ -126,12 +142,13 @@ ul {
 /* Header Styles */
 
 .brand {
+    font-size: 22px;
     padding-top: 45px;
     padding-bottom: 45px;
 }
 
 .nav {
-    padding-top: 60px;
+	padding-top: 60px;
 }
 
 .pull-right {
