@@ -51,8 +51,7 @@ h2 {
 }
 
 body {
-    background color:white
-    background-repeat: no-repeat;
+    background color:white;
     background-position: right top;
     margin-right: 200px;
     background-attachment: fixed;
