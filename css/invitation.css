@@ -58,7 +58,7 @@ transition: background 0.3s ease-in-out;
 
 } 
 
-a:hover { 
+.btn:hover { 
     background-color: yellow;
 }
 
