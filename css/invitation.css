@@ -49,6 +49,7 @@ h2 {
 display: inline-block;
 font-size: 14px;
 color: #000;
+background color:#D2691E;
 padding: 15px 20px;
 border: 0 none;
 margin-right: 10px;
@@ -63,7 +64,7 @@ transition: background 0.3s ease-in-out;
 } 
 
 .btn: hover {
-background-color: #588B8D; /* lighter teal */
+background-color: #D2691E;
 }
 
 
