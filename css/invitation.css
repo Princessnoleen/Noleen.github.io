@@ -58,6 +58,10 @@ transition: background 0.3s ease-in-out;
 
 } 
 
+.btn: hover {
+background-color: #588B8D; /* lighter teal */
+}
+
 .page-header .btn {
 		margin-top: 40px;
 		margin-left: 20px;
