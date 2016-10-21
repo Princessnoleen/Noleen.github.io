@@ -57,4 +57,19 @@ transition: background 0.3s ease-in-out;
 
 } 
 
+.page-header .btn {
+		margin-top: 40px;
+		margin-left: 20px;
+}
+
+.message .btn {
+    margin-left: 20px;
+}
+
+.btn > i {
+		color: #FFF;
+}
+
+
+
 </style>
