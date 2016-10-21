@@ -43,6 +43,7 @@ h2 {
 .btn {
 display: inline-block;
 font-size: 14px;
+background-color:blue;
 color: #000;
 padding: 15px 20px;
 border: 0 none;
