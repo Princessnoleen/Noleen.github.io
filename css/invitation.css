@@ -48,7 +48,7 @@ h2 {
 .btn {
 display: inline-block;
 font-size: 14px;
-color: #000;
+color:#000;
 background color:#D2691E;
 padding: 15px 20px;
 border: 0 none;
@@ -67,8 +67,5 @@ transition: background 0.3s ease-in-out;
     margin-left: 20px;
 }
 
-.btn > i {
-		color: #D2691E;
-}
 
 </style>
