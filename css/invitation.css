@@ -63,11 +63,6 @@ transition: background 0.3s ease-in-out;
 
 } 
 
-.btn: hover {
-background-color: #D2691E;
-}
-
-
 .message .btn {
     margin-left: 20px;
 }
