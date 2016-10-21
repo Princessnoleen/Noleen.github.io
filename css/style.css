@@ -1,5 +1,4 @@
-<style type="text/css"> 
-@charset "UTF-8";
+<style type="text/css"> @charset "UTF-8";
 
 /* CSS Document */
 
@@ -20,60 +19,63 @@ html {
     box-sizing: border-box;
 }
 
+
 /* Body Tag Selector Role */
 
- body {
+body {
     font-family: 'Ubuntu', sans-serif;
-	font-size: 14px;
-	line-height: 1.5;
+    font-size: 14px;
+    line-height: 1.5;
 }
 
 h1 {
-    font-size:38px;
-    color:#a9a9a9;
+    font-size: 38px;
+    color: #a9a9a9;
 }
 
 h2 {
-    font-size:32px;
-    color:#A9A9A9;
+    font-size: 32px;
+    color: #A9A9A9;
 }
 
 h3 {
-    font-size:24px;
-    color:#A9A9A9;
+    font-size: 24px;
+    color: #A9A9A9;
 }
 
 h4 {
-    font-size:18px;
-    color:#A9A9A9;
+    font-size: 18px;
+    color: #A9A9A9;
 }
 
 h5 {
-    color:#FFFFFF;
+    color: #FFFFFF;
 }
 
 p {
-   font-size:18px;
-   color:#808080;
-   background-color:#d3d3d3;
+    font-size: 18px;
+    color: #808080;
+    background-color: #d3d3d3;
 }
 
 a {
-   text-decoration: none;
+    text-decoration: none;
 }
 
 ul {
-   list-style: none;
-   padding: 0;
-   margin: 0;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
 .header {
-	background-color: #333333;
+    background-color: #333333;
 }
+
 .main {
-	background-color:#cccccc;
+    background-color: #cccccc;
 }
+
 
 /* GRID RULES */
 
@@ -134,7 +136,7 @@ nav ul li {
 }
 
 a {
-     text-decoration: none;
+    text-decoration: none;
 }
 
 ul {
@@ -158,46 +160,38 @@ ul {
 }
 
 .nav {
-	padding-top: 60px;
+    padding-top: 60px;
 }
 
 .pull-right {
     float: right;
 }
 
-/*footer CSS*/
-
-.social {
-    text-align: center;
-}
-
 .footer {
-	background-color: #333333;
-	
+    background-color: #333333;
 }
 
 .footer4 {
-	color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .footer-bottom {
-	color: #FFFFFF;
-	background-color: #000000;
-	
+    color: #FFFFFF;
+    background-color: #000000;
 }
 
 .footer p {
-	color: #cccccc;
-	background-color: #000000;
+    color: #cccccc;
+    background-color: #000000;
 }
+
+
 /*Main Content */
 
-
-{
+.page-header {
     padding-top: 30px;
     margin-bottom: 50px;
-	background-color: #40E0D0;
-	color: #FFF;
+    
 }
 
 .page-header p {
@@ -212,12 +206,13 @@ ul {
 }
 
 .message {
-	padding-top: 60px;
-	padding-bottom: 60px;
-	background-color: #00CED1;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #00CED1;
 }
+
 .message h3 {
-	color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .main-content-top h1 {
@@ -234,42 +229,45 @@ ul {
 }
 
 .contentbox {
-	background-color: #FFFFFF;
-	padding: 10px;
-	margin-bottom: 70px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-bottom: 70px;
 }
+
 .contentbox li {
-	color: #333333;
+    color: #333333;
 }
 
 .contentbox-beige {
-	background-color: #faebd7;
-	padding: 10px;
-	margin-bottom: 70px;
+    background-color: #faebd7;
+    padding: 10px;
+    margin-bottom: 70px;
 }
 
 .contentbox-turquoise {
-	background-color: #00e5ee;
-	padding: 10px;
-	margin-bottom: 70px;
+    background-color: #00e5ee;
+    padding: 10px;
+    margin-bottom: 70px;
 }
 
 .contentbox>img {
-	float: left;
-	margin-right: 15px;
+    float: left;
+    margin-right: 15px;
 }
 
 .content-beige>img {
-	float: left;
-	margin-right: 15px;
+    float: left;
+    margin-right: 15px;
 }
 
 .tile {
-	background-color: #00e5ee;
-	color: #FFFFFF;
-	padding: 10px;
-	margin-bottom: 10px;
+    background-color: #00e5ee;
+    color: #FFFFFF;
+    padding: 10px;
+    margin-bottom: 10px;
 }
+
+
 /*ABOUT PAGE*/
 
 .team h1 {
@@ -300,6 +298,13 @@ ul {
     padding: 10px;
 }
 
+
+/*footer CSS*/
+
+.social {
+    text-align: center;
+}
+
 .recent-entries img {
     float: left;
     padding-right: 10px;
@@ -327,10 +332,11 @@ ul {
 }
 
 .blog-tease {
-	color: #FFFFFF;	
+    color: #FFFFFF;
 }
+
 .blog-tease h2 {
-	color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 
@@ -343,4 +349,3 @@ ul {
 }
 
 </style>
-
