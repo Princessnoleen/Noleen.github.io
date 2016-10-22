@@ -333,6 +333,26 @@ ul {
     padding-bottom: 5px;
 }
 
+.social {
+    text-align: center;
+}
+
+.social-list {
+    text-align: center;
+}
+
+.social-list li {
+     display: inline-block;   
+}
+
+.social-list i {
+    background-color: #2D2D2D;
+    margin: 5px 10px 0 0;
+    padding: 3px;
+    width: 40px;
+    display: inline-block;
+}
+
 
 
 /*PORTFOLIO PAGE*/
