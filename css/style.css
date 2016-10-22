@@ -349,7 +349,12 @@ ul {
 }
 
 .info li {
-    display: inline-block;
+    font-size: 14px;
+    background-color: #edecea;
+    padding: 5px 8px;
+    margin-top: 5px;
+    margin-right: 5px;
+
 }
 
 .sidebar {
