@@ -296,6 +296,37 @@ ul {
     margin-bottom: 20px;
 }
 
+.team-member h1 {
+    Text-align: center;
+}
+
+
+.team-member ul {
+    text-align: right;
+}
+.team-member li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+.team-member a {
+    color: #1e1f1f;
+}
+
+
+.team-member i {
+    background-color: #edecea;
+    Color: #1e1f1f;
+    font-size: 16px;
+    padding: 3px;
+    margin: 0;
+    width: 22px;
+    display: inline-block;
+    text-align: center;
+}
+
 
 /*PORTFOLIO PAGE*/
 
