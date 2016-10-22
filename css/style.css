@@ -272,11 +272,18 @@ ul {
 }
 
 .tile {
-    background-color: #40E0D0;
-    color: #FFFFFF;
-    padding: 10px;
-    margin-bottom: 10px;
+    margin: 0 0 5px 5px;
+    padding: 20px;
+    text-align: center;
 }
+
+.tile p {
+    margin: 0;
+}
+.tile i {
+    font-size: 108px;
+}
+
 
 
 /*ABOUT PAGE*/
