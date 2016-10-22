@@ -357,8 +357,31 @@ ul {
 
 }
 
+.info i {
+    color: #1e1f1f;
+    display: inline-block;
+    width: 22px;
+    text-align: center;
+}
+
+
 .sidebar {
-    padding: 10px;
+    padding: 30px;
+}
+
+.sidebar p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #1e1f1f;
+    padding-bottom: 10px;
+}
+
+.sidebar a {
+    color: #1e1f1f;  
+}
+
+.sidebar li {
+    font-size: 14px;
 }
 
 
