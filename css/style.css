@@ -166,6 +166,10 @@ ul {
     padding-top: 60px;
 }
 
+.nav li {
+    font-size: 18px;
+}
+
 .pull-right {
     float: right;
 }
