@@ -60,7 +60,7 @@ p {
 }
 
 a {
-    color:FFFFFF;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
@@ -262,12 +262,6 @@ ul {
     margin-right: 15px;
 }
 
-.tile {
-    background-color: #00e5ee;
-    color: #FFFFFF;
-    padding: 10px;
-    margin-bottom: 10px;
-}
 
 
 /*ABOUT PAGE*/
