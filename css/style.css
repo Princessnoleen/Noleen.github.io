@@ -61,7 +61,7 @@ p {
 }
 
 a {
-    color: 	#FFFFFF;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
@@ -210,16 +210,13 @@ ul {
     font-weight: 200;
 }
 
-
-
 /*Main Content */
 
 .page-header {
     padding-top: 30px;
     margin-bottom: 50px;
     background-color:#40E0D0
-    color: #000000;
-    
+    color: #000000;    
 }
 
 .page-header p {
@@ -293,10 +290,6 @@ ul {
     margin-bottom: 70px;
 }
 
-.contentbox h4 {
-    font-size: 20px;
-    font-weight: normal;
-}
 
 .contentbox-turquoise {
     background-color:#40E0D0;
