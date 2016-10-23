@@ -327,6 +327,14 @@ ul {
     font-size: 108px;
 }
 
+.team-member h1 {
+    text-align:center;
+}
+
+.team-member ul {
+    text-align:right;
+}
+
 .recent-entries img {
     float: left;
     padding-right: 10px;
