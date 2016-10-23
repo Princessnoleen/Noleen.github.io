@@ -1,4 +1,35 @@
-<style type="text/css"> @charset "UTF-8";
+
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+Click here to enable desktop notifications for Gmail.   Learn more  Hide
+Move to Inbox
+ 
+More 
+9 of about 91
+ 
+Style.css
+Inbox
+	x
+Noleen Melnikov <princessnoleen04@gmail.com>
+	
+AttachmentsOct 18 (4 days ago)
+		
+to me
+Attachments area
+	
+Click here to Reply or Forward
+0.91 GB (6%) of 15 GB used
+Manage
+Terms - Privacy
+Last account activity: 22 minutes ago
+Open in 1 other location  Details
+	
+	
+
+<style type="text/css"> 
+@charset "UTF-8";
 
 /* CSS Document */
 
@@ -19,65 +50,60 @@ html {
     box-sizing: border-box;
 }
 
-
 /* Body Tag Selector Role */
 
-body {
+ body {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
-    color: #808080;
+	font-size: 14px;
+	line-height: 1.5;
 }
 
 h1 {
-    font-size: 38px;
-    color: #A9A9A9;
+    font-size:38px;
+    color:#a9a9a9;
 }
 
 h2 {
     font-size:32px;
-    color: #A9A9A9;
+    color:#A9A9A9;
 }
 
 h3 {
     font-size:24px;
-    color: #A9A9A9;
+    color:#A9A9A9;
 }
 
 h4 {
-    font-size: 18px;
-    color: #A9A9A9;
+    font-size:18px;
+    color:#A9A9A9;
 }
 
 h5 {
-    color: #FFFFFF;
+    color:#FFFFFF;
 }
 
 p {
-    font-size: 18px;
-    color: #808080;
-    background-color: #d3d3d3;
+   font-size:18px;
+   color:#808080;
+   background-color:#d3d3d3;
 }
 
 a {
-    color: 	#FFFFFF;
-    text-decoration: none;
+   text-decoration: none;
 }
 
 ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+   list-style: none;
+   padding: 0;
+   margin: 0;
 }
 
 .header {
-    background-color: #808080;
+	background-color: #333333;
 }
-
 .main {
-    background-color: #cccccc;
+	background-color:#cccccc;
 }
-
 
 /* GRID RULES */
 
@@ -136,20 +162,22 @@ ul {
 nav ul li {
     display: inline-block;
 }
-
-a {
-    text-decoration: none;
+.nav li {
+	font-size: 18px;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0;
+.main-content-top i {
+	color: #5adae2;
+	vertical-align: -10px;
+}
+
+a {
+     text-decoration: none;
 }
 
 .img-responsive {
     height: auto;
-    max-width: 100%;
+    width: 100%;
 }
 
 
@@ -162,41 +190,71 @@ ul {
 }
 
 .nav {
-    padding-top: 60px;
+	padding-top: 60px;
 }
 
 .pull-right {
     float: right;
 }
 
+/*footer CSS*/
+
+.social {
+    text-align: center;
+}
+
 .footer {
-    background-color: #333333;
+	background-color: #333333;
+	
 }
 
 .footer4 {
-    color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 .footer-bottom {
-    color: #FFFFFF;
-    background-color: #000000;
+	color: #FFFFFF;
+	background-color: #000000;
+	
 }
 
 .footer p {
-    color: #cccccc;
-    background-color: #000000;
+	font-size: 16px;
+	font-weight: 200;
+	margin-top: 0;
+	color: #cccccc;
+	background-color: #000000;
 }
-
 /*Main Content */
 
-.page-header {
+
+{
     padding-top: 30px;
     margin-bottom: 50px;
-    
+	background-color: #40E0D0;
+	color: #FFF;
+}
+.footer ul {
+	font-size: 16px;
+	font-weight: 200;
 }
 
 .page-header p {
     padding-left: 15px;
+}
+
+.page-header.home p {
+	font-size: 18px;
+	font-weight: 200;
+}
+
+.page-header.home a {
+	padding-left: 35px;
+}
+
+.page-header h1 {
+	font-weight: bold;
+	text-align: center;
 }
 
 
@@ -205,15 +263,18 @@ ul {
 .page-header.home {
     margin-bottom: 0;
 }
-
-.message {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    background-color: #00CED1;
+.page-header.home h1 {
+	font-weight: normal;
+	text-align: center;
 }
 
+.message {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #00CED1;
+}
 .message h3 {
-    color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 .main-content-top h1 {
@@ -230,45 +291,82 @@ ul {
 }
 
 .contentbox {
-    background-color: #FFFFFF;
-    padding: 10px;
-    margin-bottom: 70px;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin-bottom: 70px;
+}
+
+.contentbox h4 {
+	font-size: 20px;
+	font-weight: normal;
+}
+.contentbox i {
+	color: #5adae2;
 }
 
 .contentbox li {
-    color: #333333;
+	font-size: 18px;
+	font-weight:200;
+	color: #333333;
 }
 
 .contentbox-beige {
-    background-color: #faebd7;
-    padding: 10px;
-    margin-bottom: 70px;
+	background-color: #faebd7;
+	padding: 10px;
+	margin-bottom: 70px;
 }
 
 .contentbox-turquoise {
-    background-color: #00e5ee;
-    padding: 10px;
-    margin-bottom: 70px;
+	background-color: #00e5ee;
+	padding: 10px;
+	margin-bottom: 70px;
 }
 
 .contentbox>img {
-    float: left;
-    margin-right: 15px;
+	float: left;
+	margin-right: 15px;
 }
 
 .content-beige>img {
-    float: left;
-    margin-right: 15px;
+	float: left;
+	margin-right: 15px;
 }
 
 .tile {
-    background-color: #00e5ee;
-    color: #FFFFFF;
-    padding: 10px;
-    margin-bottom: 10px;
+	background-color: #00e5ee;
+	color: #FFFFFF;
+	padding: 20px;
+	margin-bottom: 5px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 5px;
 }
 
+.tile p {
+	margin: 0px;
+}
 
+.tile i {
+	font-size: 108px;
+}
+
+.social-list {
+	text-align: center;
+}
+.social-list li {
+	display: inline-block;
+}
+.social-list i {
+	background-color: #2D2D2D;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	display: inline-block;
+	padding: 3px;
+	width: 40px;
+}
 /*ABOUT PAGE*/
 
 .team h1 {
@@ -277,6 +375,14 @@ ul {
 
 .team-member {
     margin-bottom: 20px;
+}
+
+.team-member ul {
+	text-align: right;
+}
+
+.team-member h1 {
+	text-align: center;
 }
 
 
@@ -297,13 +403,6 @@ ul {
 
 .sidebar {
     padding: 10px;
-}
-
-
-/*footer CSS*/
-
-.social {
-    text-align: center;
 }
 
 .recent-entries img {
@@ -333,11 +432,10 @@ ul {
 }
 
 .blog-tease {
-    color: #FFFFFF;
+	color: #FFFFFF;	
 }
-
 .blog-tease h2 {
-    color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 
@@ -350,3 +448,10 @@ ul {
 }
 
 </style>
+
+.contentbox i {
+	color: #5adae2;
+}
+
+style.css
+Displaying style.css.
