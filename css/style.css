@@ -275,13 +275,25 @@ ul {
 }
 
 .contentbox li {
+    font-size: 18px;
+    font-weight:200;
     color:#A9A9A9;
+}
+
+
+.contentbox i {
+    color:#5adae2;
 }
 
 .contentbox-beige {
     background-color: #faebd7;
     padding: 10px;
     margin-bottom: 70px;
+}
+
+.contentbox h4 {
+    font-size: 20px;
+    font-weight: normal;
 }
 
 .contentbox-turquoise {
