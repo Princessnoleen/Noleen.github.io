@@ -170,6 +170,11 @@ ul {
     font-size: 18px;
 }
 
+.main-content-top-i {
+    color: #5adae2;
+    vertical-align: -10px;
+}
+
 .pull-right {
     float: right;
 }
