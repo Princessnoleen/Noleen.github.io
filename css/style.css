@@ -61,7 +61,6 @@ p {
 
 a {
     color: #FFFFFF;
-    background-color:#40e0d0;
     text-decoration: none;
 }
 
@@ -134,15 +133,15 @@ ul {
     margin-right: 0px;
 }
 
-nav ul li {
+.nav ul li {
     display: inline-block;
 }
 
-a {
+.a {
     text-decoration: none;
 }
 
-ul {
+.ul {
     list-style-type: none;
     padding: 0px;
     margin: 0;
