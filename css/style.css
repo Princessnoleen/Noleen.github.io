@@ -307,6 +307,32 @@ ul {
     text-align: center;
 }
 
+.social-list li {
+    display: inline-block;
+}
+
+.social-list i {
+    background-color:#2D2D2D;
+    margin: 5px 10px 0 0;
+    padding: 3px;
+    width: 40px;
+    display: inline-block;
+}
+
+.tile {
+    margin: 0 0 5px 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.tile p {
+    margin: 0;
+}
+
+.tile i {
+    font-size: 108px;
+}
+
 .recent-entries img {
     float: left;
     padding-right: 10px;
