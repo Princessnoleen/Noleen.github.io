@@ -175,6 +175,11 @@ ul {
     vertical-align: -10px;
 }
 
+.page-header h1 {
+    font-weight: bold;
+    text-align: center;
+}
+    
 .pull-right {
     float: right;
 }
