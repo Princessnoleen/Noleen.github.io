@@ -215,8 +215,11 @@ ul {
 }
 
 .footer p {
+    font-size: 16px;
+    font-weight: 200;
     color: #cccccc;
     background-color: #000000;
+    margin-top: 0;
 }
 
 .footer ul {
