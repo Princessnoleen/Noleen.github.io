@@ -230,6 +230,20 @@ ul {
     margin-bottom: 0;
 }
 
+.page-header.home h1 {
+    font-weight: normal;
+    text-align: center;
+}
+
+.page-header.home p {
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.page-header.home a {
+    padding-left: 35px;
+}
+
 .message {
     padding-top: 60px;
     padding-bottom: 60px;
