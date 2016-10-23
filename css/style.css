@@ -223,7 +223,7 @@ ul {
 }
 
 .page-header p {
-    padding-left: 15px;
+    padding-right: 15px;
 }
 
 
@@ -244,7 +244,7 @@ ul {
 }
 
 .page-header.home a {
-    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .message {
