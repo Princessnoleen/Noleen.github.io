@@ -320,7 +320,7 @@ ul {
 /*footer CSS*/
 
 .footer {
-    background-color: #333333;
+    background-color: #000000;
 }
 
 .footer4 {
@@ -337,7 +337,7 @@ ul {
     font-weight: 200;
     color: #cccccc;
     margin-top: 0;
-    background-color: #000000;
+    background-color: #333333;
 }
 
 .footer ul {
