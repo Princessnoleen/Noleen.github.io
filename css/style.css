@@ -67,7 +67,8 @@ a {
 ul {
     list-style: none;
     padding: 0;
-    margin right: 10;
+    margin:0;
+    text-align: center;
 }
 
 .header {
