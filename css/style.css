@@ -201,30 +201,7 @@ ul {
     float: right;
 }
 
-.footer {
-    background-color: #333333;
-}
 
-.footer4 {
-    color: #FFFFFF;
-}
-
-.footer-bottom {
-    color: #FFFFFF;
-    background-color: #000000;
-}
-
-.footer p {
-    font-size: 16px;
-    font-weight: 200;
-    background-color: #000000;
-    margin-top: 0;
-}
-
-.footer ul {
-    font-size: 16px;
-    font-weight: 200;
-}
 
 /*Main Content */
 
@@ -341,6 +318,32 @@ ul {
 
 
 /*footer CSS*/
+
+.footer {
+    background-color: #333333;
+}
+
+.footer4 {
+    color: #FFFFFF;
+}
+
+.footer-bottom {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.footer p {
+    font-size: 16px;
+    font-weight: 200;
+    color: #cccccc;
+    background-color: #000000;
+    margin-top: 0;
+}
+
+.footer ul {
+    font-size: 16px;
+    font-weight: 200;
+}
 
 .social-list {
     text-align: center;
