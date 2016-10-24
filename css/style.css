@@ -64,11 +64,11 @@ a {
     text-decoration: none;
 }
 
+
 ul {
     list-style: none;
     padding: 0;
     margin:0;
-    text-align: center;
 }
 
 .header {
@@ -140,12 +140,6 @@ ul {
 
 .a {
     text-decoration: none;
-}
-
-.ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0;
 }
 
 .img-responsive {
