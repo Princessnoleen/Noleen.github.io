@@ -168,7 +168,23 @@ ul {
 }
 
 .nav li {
+    float: none;
+    border-right: 1px solid #dedede;  /* light gray */
     font-size: 18px;
+    font-size: 18px;
+}
+
+.nav li:last-child {
+     border-right: 0 none;
+}
+
+.nav a {
+      padding: 0px 10px;
+     -webkit-transition: color 0.3s ease 0s;
+     -moz-transition: color 0.3s ease-out;
+     -ms-transition: color 0.3s ease-out;
+     -o-transition: color 0.3s ease-out;
+     transition: color 0.3s ease-in-out; 
 }
 
 .main-content-top i {
