@@ -243,10 +243,6 @@ ul {
     padding-bottom: 75px;
 }
 
-.blog-tease {
-    height: 210px;
-}
-
 .contentbox {
     background-color: #FFFFFF;
     padding: 10px;
@@ -416,6 +412,7 @@ ul {
 }
 
 .blog-tease {
+   height: 210px;
     color: #FFFFFF;
 }
 
