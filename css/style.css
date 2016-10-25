@@ -359,6 +359,10 @@ ul {
     color: #FFFFFF;
 }
 
+.footer-bottom a:hover{
+    color: #5adae2; /* turquoise */
+}
+
 .footer p {
     font-size: 16px;
     font-weight: 200;
