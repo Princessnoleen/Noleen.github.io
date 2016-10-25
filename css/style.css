@@ -376,6 +376,11 @@ ul {
     font-weight: 200;
 }
 
+.footer a:hover,
+.footer i:hover {
+    color: #5adae2;
+}
+
 .social {
     text-align: center;
 }
