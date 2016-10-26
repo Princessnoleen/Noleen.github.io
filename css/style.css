@@ -348,11 +348,24 @@ ul {
     margin-bottom: 20px;
 }
 
+ .team-member a  {
+    color: #1E1F1F;
+}
+
+ .team-member a:hover {
+    color: #5adae2; /* turquoise */
+}
+
+  .team-member i:hover {
+    color: #5adae2; /* turquoise */
+    background-color:#1e1f1f /* almost black */
+}
 
 /*PORTFOLIO PAGE*/
 
 .portfolio-item {
     margin-bottom: 10px;
+    position: relative;
 }
 
 .portfolio-title {
