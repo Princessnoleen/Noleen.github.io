@@ -333,6 +333,11 @@ ul {
 		margin-left: 20px;
 }
 
+.message .btn {
+    margin-left: 20px;
+    }
+
+
 /*ABOUT PAGE*/
 
 .team h1 {
@@ -484,6 +489,10 @@ ul {
 
 .blog-tease h2 {
     color: #FFFFFF;
+}
+
+.btn > i {
+    color: #FFF;
 }
 
 
