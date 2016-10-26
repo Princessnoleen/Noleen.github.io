@@ -369,6 +369,20 @@ ul {
 }
 
 .portfolio-title {
+    color: white;
+    text-align: center;
+    height: 308px;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    opacity: 0; /* opacity is zero. Nothing displays */
+    padding: 10px;
+    -webkit-transition: opacity 0.3s ease 0s;
+    -moz-transition: opacity 0.3s ease-out;
+    -ms-transition: opacity 0.3s ease-out;
+    -o-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease 0s; 
     display: none;
     /* hide portfolio image text */
 }
