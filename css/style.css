@@ -527,7 +527,7 @@ a {
    color: #5adae2; /* turquoise */
 }
 
- .info i:hover {
+.info i:hover {
     color: #5adae2; /* turquoise */
 }
 
@@ -538,7 +538,7 @@ ul {
     text-decoration: none;
 }
 
-ul li {
+.ul li {
     display: inline-block;
 }
 
