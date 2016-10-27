@@ -66,13 +66,6 @@ a {
     text-decoration: none;
 }
 
-.ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0;
-   color: #333333;
-}
-
 .header {
     background-color: #333333;
 }
@@ -529,6 +522,13 @@ a {
 
  .info i:hover {
     color: #5adae2; /* turquoise */
+}
+
+.ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+   color: #333333;
 }
 /*CONTACT PAGE*/
 
