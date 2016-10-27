@@ -531,13 +531,16 @@ a {
     color: #5adae2; /* turquoise */
 }
 
-.ul {
+ul {
     color: #000000;
     text-align:left;
     padding: 10px;
     text-decoration: none;
 }
 
+ul li {
+    display: inline-block;
+}
 
  
 /*CONTACT PAGE*/
