@@ -532,18 +532,13 @@ a {
 }
 
 .ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: 0;
-   
-}
-
-li a {
     color: #000000;
     text-align:left;
     padding: 10px;
     text-decoration: none;
 }
+
+ 
 /*CONTACT PAGE*/
 
 .table,
