@@ -33,6 +33,9 @@ h1 {
     font-size: 38px;
     color: #000000;
 }
+h1 span {
+    color: white
+}
 
 h2 {
     font-size:32px;
