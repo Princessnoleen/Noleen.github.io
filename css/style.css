@@ -224,6 +224,12 @@ a {
     float: right;
 }
 
+.ul {
+    color: #000000;
+    text-align:left;
+    padding: 10px;
+    text-decoration: none;
+}
 
 
 /*Main Content */
@@ -531,12 +537,7 @@ a {
     color: #5adae2; /* turquoise */
 }
 
-.ul {
-    color: #000000;
-    text-align:left;
-    padding: 10px;
-    text-decoration: none;
-}
+
 
 
  
