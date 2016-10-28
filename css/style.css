@@ -62,7 +62,7 @@ h5 {
 p {
     font-size: 18px;
     color: #808080;
-    text-align: center;
+   
 }
 
 p span {
@@ -472,6 +472,7 @@ a {
     margin: 0 0 5px 5px;
     padding: 20px;
     text-align: center;
+	background-color:
 }
 
 .tile p {
