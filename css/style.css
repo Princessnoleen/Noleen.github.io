@@ -68,8 +68,9 @@ p {
 }
 
 p span {
-    color: white
+    color: white;
 }
+
 a {
     color: #FFFFFF;
     text-decoration: none;
