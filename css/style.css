@@ -597,9 +597,9 @@ input[type="submit"].btn {
 	color:#FFFFFFF;
 	height:50px;
 	width:150px;
-	-webkit-transition: background 0.5s ease 0s
-    -moz-transition: background 0.5s ease 0s
-    transition: background 0.5s ease 0s
+	-webkit-transition: background 0.5s ease 0s;
+    -moz-transition: background 0.5s ease 0s;
+    transition: background 0.5s ease 0s;
 
 }
 
