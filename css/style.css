@@ -571,16 +571,16 @@ transition: background 0.5s ease 0s;
 /*CONTACT PAGE*/
 
 input[type="text"], input[type="email"], input[type="tel"] {
-	padding-top: 25px;
-	padding-right: 0px;
-	padding-bottom: 25px;
+	padding-top:25px;
+	padding-right:0px;
+	padding-bottom:25px;
 	padding-left: 10px;
 	margin-bottom:25px;
-    background-color: #FFFFFF;
-	border: 1px solid :#cccccc;
-	display: inline-block;
-	height: 20px;
-    font-size: 14px;
+    background-color:#FFFFFF;
+	border:1px solid #cccccc;
+	display:inline-block;
+	height:20px;
+        font-size:14px;
 	color: #373737;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -644,22 +644,22 @@ input[type="submit"].btn {
 .contact-table th {
 	text-align:left;
       background-color:white;
-	 color :373737;
-	 letter-spacing ;1px;
-	 padding-top :5px;
-	padding-bottom:5px;
-	 padding-left:5px;
+	 color: #373737;
+	 letter-spacing: 1px;
+	 padding-top: 5px;
+	padding-bottom: 5px;
+	 padding-left: 5px;
 }
 
 .contact-table td {
-	color :#373737;
+	color: #373737;
 	padding-top: 5px;
 	padding-bottom:5px;
-	padding-left 5px;
+	padding-left: 5px;
 }
 
 .contact-table tr:nth-child(odd) {
-      background-color: #F9F8F8;
+      background-color:#F9F8F8;
 }
 
  .contact-table tr:hover {
