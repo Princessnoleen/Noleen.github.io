@@ -542,7 +542,90 @@ a {
     color: #5adae2; /* turquoise */
 }
 
+.sidebar-form input[type="text"] {
+	height: 30px;
+    width: 125px;
+    padding: 0;
+    margin-bottom: 2px;
+ -webkit-border-radius: 4px 0 0 4px;
+ -moz-border-radius: 4px 0 0 4px;
+border-radius: 4px 0 0 4px;
+
+}
+
+ .sidebar-form .btn {
+	 height:30px;
+     padding-top: 0;
+     padding-bottom :0;
+     padding-left:10px;
+     padding-right:10px;
+     border:0 none;
+ -webkit-border-radius: 0;
+ -moz-border-radius: 0;
+  border-radius: 0;
+ -webkit-transition: background 0.5s ease 0s;
+-moz-transition: background 0.5s ease 0s;
+transition: background 0.5s ease 0s;
+ }
+
 /*CONTACT PAGE*/
+
+input[type="text"], input[type="email"], input[type="tel"] {
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+	margin-bottom;25px;
+    background-color: white;
+	border: 1px solid #cccccc;
+	display: inline-block;
+	height: 20px;
+    font-size: 14px;
+	color: #373737;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+input[type="submit"].btn {
+	border: 0 none;
+	padding-top: 0;
+	padding-right: 22px;
+	padding-bottom:0;
+	padding-left: 22px;
+	margin-top: 10px;
+	color:#FFFFFFF;
+	height:50px;
+	width:150px;
+	-webkit-transition: background 0.5s ease 0s
+    -moz-transition: background 0.5s ease 0s
+    transition: background 0.5s ease 0s
+
+}
+
+.form p {
+	 margin-bottom: 20px;
+}
+
+.contact-form input {
+	width: 445px;
+}
+
+.contact-form textarea {
+	width: 445px;
+	padding-top: 15px;
+    padding-right:0;
+	padding-bottom:15px;
+	padding-left:10px;
+	background-color: white;
+	border:1px  solid #cccccc;
+	display: inline-block;
+	color:#373737;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+	 border-radius: 4px;
+
+}
 
 .contact-table {
      width:99%;
@@ -592,3 +675,6 @@ a {
 }
 
 </style>
+
+
+
