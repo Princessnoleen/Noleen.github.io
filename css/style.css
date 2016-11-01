@@ -543,13 +543,13 @@ a {
 }
 
 .sidebar-form input[type="text"] {
-	height: 30px;
+    height: 30px;
     width: 125px;
     padding: 0;
     margin-bottom: 2px;
- -webkit-border-radius: 4px 0 0 4px;
- -moz-border-radius: 4px 0 0 4px;
-border-radius: 4px 0 0 4px;
+    -webkit-border-radius: 4px 0 0 4px;
+    -moz-border-radius: 4px 0 0 4px;
+     border-radius: 4px 0 0 4px;
 
 }
 
@@ -566,7 +566,7 @@ border-radius: 4px 0 0 4px;
  -webkit-transition: background 0.5s ease 0s;
 -moz-transition: background 0.5s ease 0s;
 transition: background 0.5s ease 0s;
- }
+}
 
 /*CONTACT PAGE*/
 
@@ -575,9 +575,9 @@ input[type="text"], input[type="email"], input[type="tel"] {
 	padding-right: 0px;
 	padding-bottom: 25px;
 	padding-left: 10px;
-	margin-bottom;25px;
-    background-color: white;
-	border: 1px solid #cccccc;
+	margin-bottom:25px;
+    background-color: #FFFFFF;
+	border: 1px solid :#cccccc;
 	display: inline-block;
 	height: 20px;
     font-size: 14px;
@@ -617,8 +617,8 @@ input[type="submit"].btn {
     padding-right:0;
 	padding-bottom:15px;
 	padding-left:10px;
-	background-color: white;
-	border:1px  solid #cccccc;
+	background-color:#FFFFFF;
+	border:1px solid: #cccccc;
 	display: inline-block;
 	color:#373737;
     -webkit-border-radius: 4px;
@@ -653,7 +653,7 @@ input[type="submit"].btn {
 
 .contact-table td {
 	color :#373737;
-	padding-top : 5px;
+	padding-top: 5px;
 	padding-bottom:5px;
 	padding-left 5px;
 }
