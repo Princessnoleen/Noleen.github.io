@@ -570,7 +570,7 @@ transition: background 0.5s ease 0s;
 
 /*CONTACT PAGE*/
 
-input[type="text"], input[type="email"], input[type="tel"] 
+input[type="text"], input[type="email"], input[type="tel"] {
 	padding-top:25px;
 	padding-right:0px;
 	padding-bottom:25px;
@@ -587,7 +587,7 @@ input[type="text"], input[type="email"], input[type="tel"]
 	border-radius: 4px;
 }
 
-input[type="submit"].btn 
+input[type="submit"].btn {
 	border: 0 none;
 	padding-top: 0;
 	padding-right: 22px;
