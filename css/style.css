@@ -1,5 +1,4 @@
 <style type="text/css">
-
 /* CSS Document */
 
 
@@ -39,22 +38,21 @@ h1 span {
 }
 
 h2 {
-    font-size:32px;
-    color:#000000;
+    font-size: 32px;
+    color: #000000;
 }
 
 h3 {
-    font-size:24px;
+    font-size: 24px;
     color: #000000;
-    margin:0;
+    margin: 0;
 }
 
 h4 {
     font-size: 18px;
-    color: #FFFFFF;
+    color: #ffffff;
     text-align: center;
 }
-
 
 h5 {
     color: #FFFFFF;
@@ -63,12 +61,11 @@ h5 {
 p {
     font-size: 18px;
     color: #808080;
-	margin:0;
-   
+    margin: 0;
 }
 
 p span {
-    color:#FFFFFF;
+    color: #FFFFFF;
 }
 
 a {
@@ -116,7 +113,7 @@ a {
 }
 
 .two-thirds {
-    width:620px;
+    width: 620px;
 }
 
 .one-third {
@@ -147,7 +144,6 @@ a {
     text-decoration: none;
 }
 
-
 .img-responsive {
     height: auto;
     max-width: 100%;
@@ -168,32 +164,34 @@ a {
 
 .nav li {
     float: none;
-    border-right: 1px solid #dedede;  /* light gray */
+    border-right: 1px solid #dedede;
+    /* light gray */
     font-size: 18px;
     font-size: 18px;
 }
 
 .nav li:last-child {
-     border-right: 0 none;
+    border-right: 0 none;
 }
 
 .nav a {
-      padding: 0px 10px;
-     -webkit-transition: color 0.3s ease 0s;
-     -moz-transition: color 0.3s ease-out;
-     -ms-transition: color 0.3s ease-out;
-     -o-transition: color 0.3s ease-out;
-     transition: color 0.3s ease-in-out; 
+    padding: 0px 10px;
+    -webkit-transition: color 0.3s ease 0s;
+    -moz-transition: color 0.3s ease-out;
+    -ms-transition: color 0.3s ease-out;
+    -o-transition: color 0.3s ease-out;
+    transition: color 0.3s ease-in-out;
 }
 
 .nav a:hover {
-     color: #5adae2; /* turquoise */
+    color: #5adae2;
+    /* turquoise */
 }
 
 .active a {
-    color: #5adae2; /* turquoise */
+    color: #5adae2;
+    /* turquoise */
 }
-
 
 .main-content-top i {
     color: #5adae2;
@@ -216,7 +214,7 @@ a {
 
 .page-header.home p {
     font-size: 18px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 .page-header.home a {
@@ -227,10 +225,10 @@ a {
     float: right;
 }
 
-ul {
+.ul {
     color: #000000;
     padding: 12px;
-    float:center;
+    float: right;
     text-decoration: none;
 }
 
@@ -240,7 +238,7 @@ ul {
 .page-header {
     padding-top: 30px;
     margin-bottom: 50px;
-    background-color:#40E0D0;
+    background-color: #40E0D0;
 }
 
 .page-header p {
@@ -286,12 +284,12 @@ ul {
 
 .contentbox li {
     font-size: 18px;
-    font-weight:200;
-    color: #333333; 
+    font-weight: 200;
+    color: #333333;
 }
 
 .contentbox-beige {
-    background-color:#ffffff;
+    background-color: #ffffff;
     padding: 10px;
     margin-bottom: 70px;
 }
@@ -315,7 +313,8 @@ ul {
 .btn {
     display: inline-block;
     font-size: 14px;
-    background-color: #0B676B; /* teal */
+    background-color: #0B676B;
+    /* teal */
     color: #FFF;
     padding: 15px 20px;
     border: 0 none;
@@ -326,21 +325,22 @@ ul {
     -moz-transition: background 0.3s ease-out;
     -ms-transition: background 0.3s ease-out;
     -o-transition: background 0.3s ease-out;
-    transition: background 0.3s ease-in-out; 
-} 
+    transition: background 0.3s ease-in-out;
+}
 
- .btn:hover {
-   background-color: #588B8D; /* lighter teal */
+.btn:hover {
+    background-color: #588B8D;
+    /* lighter teal */
 }
 
 .page-header .btn {
-		margin-top: 40px;
-		margin-left: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
 }
 
 .message .btn {
     margin-left: 20px;
-    }
+}
 
 
 /*ABOUT PAGE*/
@@ -353,18 +353,21 @@ ul {
     margin-bottom: 20px;
 }
 
- .team-member a  {
+.team-member a {
     color: #1E1F1F;
 }
 
- .team-member a:hover {
-    color: #5adae2; /* turquoise */
+.team-member a:hover {
+    color: #5adae2;
+    /* turquoise */
 }
 
-  .team-member i:hover {
-    color: #5adae2; /* turquoise */
-    background-color:#1e1f1f /* almost black */
+.team-member i:hover {
+    color: #5adae2;
+    /* turquoise */
+    background-color: #1e1f1f/* almost black */
 }
+
 
 /*PORTFOLIO PAGE*/
 
@@ -381,20 +384,23 @@ ul {
     z-index: 10;
     top: 0;
     left: 0;
-    opacity: 0; /* opacity is zero. Nothing displays */
+    opacity: 0;
+    /* opacity is zero. Nothing displays */
     padding: 10px;
     -webkit-transition: opacity 0.3s ease 0s;
     -moz-transition: opacity 0.3s ease-out;
     -ms-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
-    transition: opacity 0.3s ease 0s; 
+    transition: opacity 0.3s ease 0s;
     display: none;
     /* hide portfolio image text */
 }
 
- .portfolio-title:hover {
-    background-color: #5adae2; /* turquoise */
-    opacity: .9; /* almost opaque */
+.portfolio-title:hover {
+    background-color: #5adae2;
+    /* turquoise */
+    opacity: .9;
+    /* almost opaque */
 }
 
 .info li {
@@ -409,7 +415,7 @@ ul {
 /*footer CSS*/
 
 .footer {
-    background-color:#333333;
+    background-color: #333333;
 }
 
 .footer4 {
@@ -425,8 +431,9 @@ ul {
     color: #FFFFFF;
 }
 
-.footer-bottom a:hover{
-    color: #5adae2; /* turquoise */
+.footer-bottom a:hover {
+    color: #5adae2;
+    /* turquoise */
 }
 
 .footer p {
@@ -434,7 +441,7 @@ ul {
     font-weight: 200;
     color: #cccccc;
     margin-top: 0;
-    background-color:#333333;
+    background-color: #333333;
 }
 
 .footer ul {
@@ -460,7 +467,7 @@ ul {
 }
 
 .social-list i {
-    background-color:#2D2D2D;
+    background-color: #2D2D2D;
     margin: 5px 10px 0 0;
     padding: 3px;
     width: 40px;
@@ -468,15 +475,16 @@ ul {
 }
 
 .social-list i:hover {
-    background color: #373737; /* dark grey */
+    background color: #373737;
+    /* dark grey */
 }
 
 .tile {
     margin: 0 0 5px 5px;
     padding: 20px;
     text-align: center;
-    background-color:#40E0D0;
-     color:#FFFFFF;
+    background-color: #40E0D0;
+    color: #FFFFFF;
 }
 
 .tile p {
@@ -488,11 +496,11 @@ ul {
 }
 
 .team-member h1 {
-    text-align:center;
+    text-align: center;
 }
 
 .team-member ul {
-    text-align:right;
+    text-align: right;
 }
 
 .recent-entries img {
@@ -522,7 +530,7 @@ ul {
 }
 
 .blog-tease {
-   height: 210px;
+    height: 210px;
     color: #FFFFFF;
 }
 
@@ -535,11 +543,13 @@ ul {
 }
 
 .info a:hover {
-   color: #5adae2; /* turquoise */
+    color: #5adae2;
+    /* turquoise */
 }
 
 .info i:hover {
-    color: #5adae2; /* turquoise */
+    color: #5adae2;
+    /* turquoise */
 }
 
 .sidebar-form input[type="text"] {
@@ -549,124 +559,125 @@ ul {
     margin-bottom: 2px;
     -webkit-border-radius: 4px 0 0 4px;
     -moz-border-radius: 4px 0 0 4px;
-     border-radius: 4px 0 0 4px;
-
+    border-radius: 4px 0 0 4px;
 }
 
- .sidebar-form .btn {
-	 height:30px;
-     padding-top: 0;
-     padding-bottom :0;
-     padding-left:10px;
-     padding-right:10px;
-     border:0 none;
- -webkit-border-radius: 0;
- -moz-border-radius: 0;
-  border-radius: 0;
- -webkit-transition: background 0.5s ease 0s;
--moz-transition: background 0.5s ease 0s;
-transition: background 0.5s ease 0s;
+.sidebar-form .btn {
+    height: 30px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 0 none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-transition: background 0.5s ease 0s;
+    -moz-transition: background 0.5s ease 0s;
+    transition: background 0.5s ease 0s;
 }
+
 
 /*CONTACT PAGE*/
 
-input[type="text"], input[type="email"], input[type="tel"] {
-	padding-top:25px;
-	padding-right:0px;
-	padding-bottom:25px;
-	padding-left: 10px;
-	margin-bottom:25px;
-    background-color:#FFFFFF;
-	border:1px solid #cccccc;
-	display:inline-block;
-	height:20px;
-        font-size:14px;
-	color: #373737;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
-	border-radius: 4px;
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    padding-top: 25px;
+    padding-right: 0px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin-bottom;
+    25px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    display: inline-block;
+    height: 20px;
+    font-size: 14px;
+    color: #373737;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
 }
 
 input[type="submit"].btn {
-	border: 0 none;
-	padding-top: 0;
-	padding-right: 22px;
-	padding-bottom:0;
-	padding-left: 22px;
-	margin-top: 10px;
-	color:#FFFFFF;
-	height:50px;
-	width:150px;
-	-webkit-transition: background 0.5s ease 0s;
+    border: 0 none;
+    padding-top: 0;
+    padding-right: 22px;
+    padding-bottom: 0;
+    padding-left: 22px;
+    margin-top: 10px;
+    color: #FFFFFFF;
+    height: 50px;
+    width: 150px;
+    -webkit-transition: background 0.5s ease 0s;
     -moz-transition: background 0.5s ease 0s;
     transition: background 0.5s ease 0s;
-
 }
 
 .form p {
-	 margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .contact-form input {
-	width: 445px;
+    width: 445px;
 }
 
 .contact-form textarea {
-	width: 445px;
-	padding-top: 15px;
-    padding-right:0;
-	padding-bottom:15px;
-	padding-left:10px;
-	background-color:#FFFFFF;
-	border:1px solid #cccccc;
-	display: inline-block;
-	color:#373737;
+    width: 445px;
+    padding-top: 15px;
+    padding-right: 0;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    display: inline-block;
+    color: #373737;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
-	 border-radius: 4px;
-
+    border-radius: 4px;
 }
 
 .contact-table {
-     width:99%;
-     margin-bottom:50px;
+    width: 99%;
+    margin-bottom: 50px;
 }
 
- .contact-table caption {
-    color :#373737;
- text-transform:uppercase;
-	 margin-bottom:10px;
-	 font-size:24px;
-	 font-weight:200;
-	 margin-bottom:10px;
+.contact-table caption {
+    color: #373737;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 200;
+    margin-bottom: 10px;
 }
 
 .contact-table th {
-	text-align:left;
-      background-color:white;
-	 color: #373737;
-	 letter-spacing: 1px;
-	 padding-top: 5px;
-	padding-bottom: 5px;
-	 padding-left: 5px;
+    text-align: left;
+    background-color: white;
+    color: 373737;
+    letter-spacing;
+    1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
 }
 
 .contact-table td {
-	color: #373737;
-	padding-top: 5px;
-	padding-bottom:5px;
-	padding-left: 5px;
+    color: #373737;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left 5px;
 }
 
 .contact-table tr:nth-child(odd) {
-      background-color:#F9F8F8;
+    background-color: #F9F8F8;
 }
 
- .contact-table tr:hover {
-	 background-color: #999999;
-	 cursor: crosshair;
+.contact-table tr:hover {
+    background-color: #999999;
+    cursor: crosshair;
 }
-
 
 .table,
 .form p,
@@ -675,6 +686,3 @@ input[type="submit"].btn {
 }
 
 </style>
-
-
-
