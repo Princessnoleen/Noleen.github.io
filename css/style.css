@@ -639,6 +639,14 @@ input[type="submit"].btn {
     border-radius: 4px;
 }
 
+comments {
+width :445px;
+height:300px;
+float:right;
+margin-top:-80px;
+
+}
+
 .contact-table {
     width: 99%;
     margin-bottom: 50px;
@@ -679,6 +687,8 @@ input[type="submit"].btn {
     background-color: #999999;
     cursor: crosshair;
 }
+
+
 
 .table,
 .form p,
