@@ -637,8 +637,8 @@ input[type="submit"].btn {
 }
 
 .comments {
-width :445px;
-height:300px;
+width :100px;
+height:100px;
 float:right;
 margin-top:-80px;
 
