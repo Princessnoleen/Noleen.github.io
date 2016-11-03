@@ -636,7 +636,7 @@ input[type="submit"].btn {
     border-radius: 4px;
 }
 
-comments {
+.comments {
 width :445px;
 height:300px;
 float:right;
