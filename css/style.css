@@ -636,14 +636,6 @@ input[type="submit"].btn {
     border-radius: 4px;
 }
 
-.comments {
-width :200px;
-height:200px;
-float:right;
-margin-top:-80px;
-
-}
-
 .contact-table {
     width: 99%;
     margin-bottom: 50px;
