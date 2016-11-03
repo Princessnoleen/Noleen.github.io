@@ -630,9 +630,6 @@ input[type="submit"].btn {
     background-color: #FFFFFF;
     border: 1px solid #cccccc;
     display: inline-block;
-    float: right;
-    clear: right;
-    text-align: left;
     color: #373737;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
