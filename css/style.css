@@ -289,6 +289,10 @@ a {
     color: #333333;
 }
 
+.contentbox a {
+    color:#333333;
+}
+
 .contentbox-beige {
     background-color: #ffffff;
     padding: 10px;
