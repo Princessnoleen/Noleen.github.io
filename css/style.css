@@ -393,13 +393,12 @@ a {
     -ms-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
     transition: opacity 0.3s ease 0s;
-    display: none;
     /* hide portfolio image text */
 }
 
 .portfolio-title:hover {
      background-color: #5adae2; /* turquoise */
-   opacity:.9; /* almost opaque */
+   opacity: .9; /* almost opaque */
 
  
 }
