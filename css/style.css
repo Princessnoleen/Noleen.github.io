@@ -231,6 +231,7 @@ a {
     padding: 12px;
     float: right;
     text-decoration: none;
+    list-style-type: none;
 }
 
 
