@@ -397,10 +397,10 @@ a {
 }
 
 .portfolio-title:hover {
-    background-color: #5adae2;
-    /* turquoise */
-    opacity: .9;
-    /* almost opaque */
+     background-color: #5adae2; /* turquoise */
+   opacity:.9; /* almost opaque */
+
+ 
 }
 
 .info li {
