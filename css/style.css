@@ -543,13 +543,11 @@ a {
 }
 
 .info a:hover {
-    color: #5adae2;
-    /* turquoise */
+    color: #5adae2; /* turquoise */
 }
 
 .info i:hover {
-    color: #5adae2;
-    /* turquoise */
+    color: #5adae2; /* turquoise */
 }
 
 .sidebar-form input[type="text"] {
