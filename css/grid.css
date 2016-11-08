@@ -57,7 +57,26 @@ margin-left: auto;
   content: " ";
 }
 
-
 .row:after {
   clear: both;
 }
+
+/* Smartphone landscape */
+@media (min-width: 480px) {
+    .container {
+        width: 420px;
+    }
+
+
+    .one-whole,
+    .three-quarters,
+    .one-half,
+    .one-quarter,
+    .two-thirds,
+    .one-third,
+    .one-sixth {
+         width: 420px;
+    }
+}
+
+
