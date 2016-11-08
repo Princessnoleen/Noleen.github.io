@@ -106,47 +106,6 @@ a {
 
 /* GRID RULES */
 
-.container {
-    width: 960px;
-    left: auto;
-    right: auto;
-}
-
-.column {
-    float: left;
-    margin-right: 10px;
-    margin-left: 10px;
-}
-
-
-.one-whole {
-    width: 940px;
-}
-
-.three-quarters {
-    width: 700px;
-}
-
-.one-half {
-    width: 460px;
-}
-
-.two-thirds {
-    width: 620px;
-}
-
-.one-third {
-    width: 300px;
-}
-
-.one-sixth {
-    width: 140px;
-}
-
-.one-quarter {
-    width: 220px;
-}
-
 .alpha {
     margin-left: 0px;
 }
