@@ -250,6 +250,7 @@ ul {
     color: #000000;
     padding: 12px;
     list-style-type: none;
+    overflow: hidden;
     
 }
 
