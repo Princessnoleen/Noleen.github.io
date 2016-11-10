@@ -26,6 +26,21 @@
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
+/* Global */ 
+.contentbox .one-half {
+width: 440px;
+}
+
+
+    /* Portfolio */ 
+
+
+.portfolio-title {
+height: 308px;
+}      
+    .portfolio-title h2 {
+        margin-top: 40px;
+    }
 
 }
 
