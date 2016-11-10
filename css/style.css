@@ -19,36 +19,7 @@
         width: 344px;
 }
     
-  .portfolio-item {
-        position: relative;
-        margin-bottom: 10px;
-}
-    
-    .portfolio-title {
-        color: white;
-        text-align: center;
-        height: 243px;
-        position: absolute;
-        z-index: 10;
-        top: 0;
-        left: 0;
-        opacity: 0;
-  padding: 10px;
-        -webkit-transition: opacity 0.3s ease 0s;
-        -moz-transition: opacity 0.3s ease-out;
-        -ms-transition: opacity 0.3s ease-out;
-        -o-transition: opacity 0.3s ease-out;
-        transition: opacity 0.3s ease 0s;
-        
-}
-    
-    .portfolio-title:hover,
-    .portfolio-title:focus {
-        opacity: .9;
-        background-color: #5adae2;
-    }
-
-
+ 
 }
 
 
