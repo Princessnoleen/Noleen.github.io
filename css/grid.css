@@ -66,8 +66,47 @@ margin-left: auto;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
+    .container {
+        width: 768px;
+    }
+    
+    .column {
+	    margin-right: 10px;
+	    margin-left: 10px;
+    }
 
+
+    .one-whole {
+        width: 748px;
+    }
+    
+    .three-quarters {
+        width: 556px;
+    }
+    
+    .one-half {
+        width: 364px;
+    }
+    
+    .one-quarter {
+        width: 172px;
+    }
+    
+    .two-thirds {
+        width: 492px;
+    }
+    
+    .one-third {
+        width: 236px;
+    }
+    
+    .one-sixth {
+        width: 108px;
+    }
 }
+
+
+
 
 
 /* Medium devices (desktops, 992px and up) */
