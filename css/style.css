@@ -4,48 +4,6 @@
 @import url(table.css);
 
 
-
-/* Smartphone landscape */
-@media (min-width: 480px) {
-
-
-}
-
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-
-    /* Global */
-    .contentbox .one-half {
-        width: 344px;
-}
-    
- 
-}
-
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-
-/* Global */ 
-.contentbox .one-half {
-width: 440px;
-}
-
-
-    /* Portfolio */ 
-
-
-.portfolio-title {
-height: 308px;
-}      
-    .portfolio-title h2 {
-        margin-top: 40px;
-    }
-
-}
-
-
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -597,4 +555,46 @@ input[type="submit"].btn {
 .map h2 {
     margin-left: 15px;
 }
+
+/* Smartphone landscape */
+@media (min-width: 480px) {
+
+
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    /* Global */
+    .contentbox .one-half {
+        width: 344px;
+}
+    
+ 
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+/* Global */ 
+.contentbox .one-half {
+width: 440px;
+}
+
+
+    /* Portfolio */ 
+
+
+.portfolio-title {
+height: 308px;
+}      
+    .portfolio-title h2 {
+        margin-top: 40px;
+    }
+
+}
+
+
 
