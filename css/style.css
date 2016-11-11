@@ -332,38 +332,7 @@ ul {
 }
 
 
-/*PORTFOLIO PAGE*/
 
-.portfolio-item {
-    margin-bottom: 10px;
-    position: relative;
-}
-
-.portfolio-title {
-    color: white;
-    text-align: center;
-    height: 308px;
-    position: absolute;
-    z-index: 10;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    /* opacity is zero. Nothing displays */
-    padding: 10px;
-    -webkit-transition: opacity 0.3s ease 0s;
-    -moz-transition: opacity 0.3s ease-out;
-    -ms-transition: opacity 0.3s ease-out;
-    -o-transition: opacity 0.3s ease-out;
-    transition: opacity 0.3s ease 0s;
-    /* hide portfolio image text */
-}
-
-.portfolio-title:hover {
-     background-color: #5adae2; /* turquoise */
-   opacity: .9; /* almost opaque */
-
- 
-}
 
 .info li {
     display: inline-block;
@@ -571,6 +540,38 @@ input[type="submit"].btn {
     /* Global */
     .contentbox .one-half {
         width: 344px;
+}
+	/*PORTFOLIO PAGE*/
+
+.portfolio-item {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.portfolio-title {
+    color: white;
+    text-align: center;
+    height: 308px;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    /* opacity is zero. Nothing displays */
+    padding: 10px;
+    -webkit-transition: opacity 0.3s ease 0s;
+    -moz-transition: opacity 0.3s ease-out;
+    -ms-transition: opacity 0.3s ease-out;
+    -o-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease 0s;
+    /* hide portfolio image text */
+}
+
+.portfolio-title:hover {
+     background-color: #5adae2; /* turquoise */
+   opacity: .9; /* almost opaque */
+
+ 
 }
     
  
