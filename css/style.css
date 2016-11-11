@@ -82,7 +82,9 @@ a {
     background-color: #cccccc;
 }
 
-
+.row {
+    overflow: hidden;
+}
 /* GRID RULES */
 
 
