@@ -220,6 +220,9 @@ ul {
     color: #FFFFFF;
 }
 
+.main-content-top h1 {
+    padding-bottom: 70px;
+}
 .main-content-bottom {
     padding-bottom: 75px;
 }
