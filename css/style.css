@@ -263,8 +263,8 @@ ul {
 }
 
 .content-beige>img {
-    float: left;
-    margin-right: 15px;
+    float: right;
+    margin-left: 15px;
 }
 
 .btn {
