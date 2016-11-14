@@ -568,38 +568,38 @@ input[type="submit"].btn {
         width: 768px;
     }
     
-    .column {
-	    margin-right: 10px;
-	    margin-left: 10px;
-    }
+.column {
+	    
+    margin-left: 10px;
+  }
 
 
-    .one-whole {
-        width: 748px;
-    }
+.one-whole {
+   width: 748px;
+  }
     
-    .three-quarters {
-        width: 556px;
-    }
+.three-quarters {
+   width: 556px;
+ }
     
-    .one-half {
-        width: 364px;
-    }
+.one-half {
+   width: 364px;
+}
     
-    .one-quarter {
-        width: 172px;
-    }
+.one-quarter {
+   width: 172px;
+}
     
-    .two-thirds {
-        width: 492px;
-    }
+.two-thirds {
+    width: 492px;
+}
     
-    .one-third {
-        width: 236px;
-    }
+.one-third {
+    width: 236px;
+}
     
-    .one-sixth {
-        width: 108px;
+.one-sixth {
+   width: 108px;
     }
 }
 
