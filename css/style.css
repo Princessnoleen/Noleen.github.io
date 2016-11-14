@@ -221,8 +221,10 @@ ul {
 }
 
 .main-content-top h1 {
+    padding-top: 70px;
     padding-bottom: 70px;
 }
+
 .main-content-bottom {
     padding-bottom: 75px;
 }
