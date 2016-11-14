@@ -135,7 +135,6 @@ a {
 }
 
 .nav a {
-    padding: 0px 10px;
     -webkit-transition: color 0.3s ease 0s;
     -moz-transition: color 0.3s ease-out;
     -ms-transition: color 0.3s ease-out;
