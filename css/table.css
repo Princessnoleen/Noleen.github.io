@@ -133,18 +133,19 @@ content: "";
 }
 
 .contact-table th {
+    position: static; /*add this to the existing rule*/
     text-align: left;
-    background-color: white;
-    color: 373737;
-    letter-spacing;
-    1px;
+    background-color:#ffffff;
+    color:#373737;
+    letter-spacing: 1px;
     padding-top: 5px;
-    padding-bottom: 5px;
     padding-left: 5px;
+    padding-bottom: 5px;
 }
 
-
-
+.contact-table td {
+padding-left: 5px;
+}
 
 .table,
 
