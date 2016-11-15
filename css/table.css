@@ -78,6 +78,30 @@ td {
     display: block; 
 }
 
+/* reestablish table default display status */
+table {
+display: table;
+}
+
+
+caption {
+display: table-caption;
+}
+
+
+thead {
+display: table-header-group;
+}
+
+
+tbody {
+display: table-row-group;
+}
+
+
+tr {
+display: table-row;
+}
 
 /* Smartphone landscape */
 @media (min-width: 480px) {
