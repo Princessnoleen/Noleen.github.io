@@ -22,7 +22,7 @@ html {
 /* Body Tag Selector Role */
 
 body {
-    
+    font-family: 'Ubuntu', sans-serif;
     line-height: 1.5;
     color: #FFFFFF;
 }
