@@ -1,4 +1,33 @@
+.form {
+    margin: 20px 0;
+}
 
+
+.form p {
+    margin-bottom: 20px;
+}
+
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    padding: 25px 0 25px 10px;
+    margin-bottom: 25px;
+    background-color: #ffffff;
+    border: 1px solid #CCCCCC;
+    display: inline-block;
+    height: 20px;
+    font-size: 14px;
+    color: #CCCCCC;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+
+.contact-form input {
+    width: 300px; /* note change of width size */
+}
 /* Smartphone landscape */
 @media (min-width: 480px) {
 
