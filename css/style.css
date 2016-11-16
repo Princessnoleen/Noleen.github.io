@@ -670,6 +670,14 @@ padding: 10px;
 padding: 30px;
     }
 	
+.map iframe {
+width: 620px;
+height: 350px;
+}
+
+
+
+	
 }
 
 
