@@ -627,6 +627,14 @@ input[type="submit"].btn {
 }
 
 
+.sidebar {
+  padding: 10px;
+}
+
+.recent-entries img {
+	 float: left;
+	 padding-right: 10px;
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
@@ -653,6 +661,11 @@ height: 308px;
 padding: 10px;
 
 	}
+
+.sidebar {
+padding: 30px;
+    }
+	
 }
 
 
