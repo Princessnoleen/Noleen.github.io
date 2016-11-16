@@ -45,7 +45,13 @@ width: 420px;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
-  .sidebar-form input[type="text"] {
+.contact-form input, 
+.contact-form submit,
+.contact-form textarea {
+width: 360px;
+}
+
+.sidebar-form input[type="text"] {
     height: 30px;
     width: 125px;
     padding: 0;
