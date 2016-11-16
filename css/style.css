@@ -600,6 +600,30 @@ input[type="submit"].btn {
     }
 }
 
+.sidebar-form input[type="text"] {
+        height: 30px;
+        width: 125px;
+        padding: 0;
+        margin-bottom: 2px;
+        -webkit-border-radius: 4px 0 0 4px;
+        -moz-border-radius: 4px 0 0 4px;
+        border-radius: 4px 0 0 4px;
+    }
+    
+    .sidebar-form .btn {
+        height: 30px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 10px;
+        padding-right: 10px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        border: 0 none;
+        -webkit-transition: background 0.5s ease 0s;
+        -moz-transition: background 0.5s ease 0s;
+        transition: background 0.5s ease 0s;
+    }
 
 
 /* Medium devices (desktops, 992px and up) */
