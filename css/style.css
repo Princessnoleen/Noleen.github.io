@@ -323,9 +323,6 @@ ul {
     display: inline-block;
 }
 
-.sidebar {
-    padding: 10px;
-}
 
 
 /*footer CSS*/
@@ -647,6 +644,10 @@ height: 308px;
         margin-top: 40px;
     }
 
+.sidebar {
+padding: 10px;
+
+	}
 }
 
 
