@@ -45,6 +45,9 @@ width: 420px;
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 
+.contact-form input {
+width: 445px;
+}
 .contact-form input, 
 .contact-form submit,
 .contact-form textarea {
