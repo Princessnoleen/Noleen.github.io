@@ -28,7 +28,7 @@ margin-left: auto;
 
 
 .column {
-    float: left;
+    float: right;
 }
 
 
@@ -120,7 +120,7 @@ margin-left: auto;
 }
 
 .column {
-    float: right;
+    float: left;
     margin-right: 10px;
     margin-left: 10px;
 }
