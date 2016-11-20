@@ -116,6 +116,11 @@ a {
     padding-bottom: 50px;
 }
 
+    
+.column {
+	    
+    margin-left: 10px;
+  }
 
 .active a {
     color: #5adae2;
