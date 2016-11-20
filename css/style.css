@@ -116,34 +116,6 @@ a {
     padding-bottom: 50px;
 }
 
-.nav {
-    padding-top: 60px;
-}
-
-.nav li {
-    float: none;
-    border-right: 1px solid #dedede;
-    /* light gray */
-    font-size: 18px;
-    font-size: 18px;
-}
-
-.nav li:last-child {
-    border-right: 0 none;
-}
-
-.nav a {
-    -webkit-transition: color 0.3s ease 0s;
-    -moz-transition: color 0.3s ease-out;
-    -ms-transition: color 0.3s ease-out;
-    -o-transition: color 0.3s ease-out;
-    transition: color 0.3s ease-in-out;
-}
-
-.nav a:hover {
-    color: #5adae2;
-    /* turquoise */
-}
 
 .active a {
     color: #5adae2;
