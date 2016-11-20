@@ -317,12 +317,9 @@ ul {
 }
 
 
-
-
 .info li {
     display: inline-block;
 }
-
 
 
 /*footer CSS*/
@@ -576,8 +573,10 @@ input[type="submit"].btn {
 
 
 /* Small devices (tablets, 768px and up) */
+
 @media (min-width: 768px) {
 
+	
     /* Global */
     .contentbox .one-half {
         width: 344px;
@@ -730,6 +729,48 @@ height: 350px;
 
 
 	
+}
+/* Horizontal navigation */
+.nav {
+    padding-top: 60px;
+    max-height: none;
+}
+
+
+.nav ul {
+width: auto;
+}
+
+
+.nav li {
+display: inline-block;
+border: 0 none;
+border-right: 1px solid #dedede;  /* gray */
+}
+
+
+.nav li:last-child {
+border-bottom: 0 none;
+border-right: 0 none;
+}
+
+
+.nav a {
+padding: 0px 10px;
+transition: all 0.15s ease-in-out;
+}
+
+
+.nav a:hover,
+.active a {
+color: #5ADAE2;  /* turquoise */
+background-color: transparent;
+}
+
+
+/* mobile nav */
+.menu-link {
+display: none;
 }
 
 
