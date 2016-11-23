@@ -19,7 +19,10 @@ html {
 /* Body Tag Selector Role */
 
 body {
-    font-family: 'Swanky and Moo Moo', cursive;
+ font-family: 'Swanky and Moo Moo';
+  font-style: normal;
+  font-weight: 400;
+    
    
    
 }
