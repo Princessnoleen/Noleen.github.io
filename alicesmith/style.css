@@ -1,4 +1,4 @@
-@import url('normalize.css ');
+ @import url('normalize.css ');
 
 html {
 
@@ -19,7 +19,7 @@ html {
 /* Body Tag Selector Role */
 
 body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Swanky and Moo Moo';
    
     color: #FFFFFF;
 }
