@@ -1,0 +1,91 @@
+@import url('normalize.css ');
+
+html {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/* Body Tag Selector Role */
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+   
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 38px;
+    color: #000000;
+}
+
+h1 span {
+    color: #FFFFFF;
+}
+
+h2 {
+   font-size: 32px;
+    color: #000000;
+    margin:0;
+    padding:30px;
+}
+
+h3 {
+    color: #000000;
+    margin: 0;
+}
+
+h4 {
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+h5 {
+    color: #FFFFFF;
+}
+
+p {
+    margin: 0;
+    color:#808080;
+}
+
+p span {
+    color: #FFFFFF;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #333333;
+}
+
+.main {
+    background-color: #cccccc;
+}
+
+.row {
+    overflow: hidden;
+}
+/* GRID RULES */
+
+
+.alpha {
+    margin-left: 0px;
+}
+
+.omega {
+margin-right: 0px;
