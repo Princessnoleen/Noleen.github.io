@@ -25,44 +25,75 @@ body {
 }
 
 h1 {
-    font-size: 38px;
-    color: #000000;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 h1 span {
-    color: #FFFFFF;
+    font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 h2 {
-   font-size: 32px;
-    color: #000000;
-    margin:0;
-    padding:30px;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 h3 {  
-    color: #000000;
-    margin: 0;
+  font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 h4 {
-    font-size: 18px;
-    color: #ffffff;
-    text-align: center;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 h5 {
-    font-family: 'Swanky and Moo Moo', cursive;
-    color: #FFFFFF;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 p {
-    margin: 0;
-    color:#808080;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 p span {
-    color: #FFFFFF;
+ font-family: Swanky and Moo Moo;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }
 
 a {
