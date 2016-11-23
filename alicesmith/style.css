@@ -25,18 +25,15 @@ body {
 }
 
 h1 {
-   font-family: 'Swanky and Moo Moo', cursive;
     font-size: 38px;
     color: #000000;
 }
 
 h1 span {
- font-family: 'Swanky and Moo Moo', cursive;
     color: #FFFFFF;
 }
 
 h2 {
- font-family: 'Swanky and Moo Moo', cursive;
    font-size: 32px;
     color: #000000;
     margin:0;
@@ -44,31 +41,27 @@ h2 {
 }
 
 h3 {  
- font-family: 'Swanky and Moo Moo', cursive;
     color: #000000;
     margin: 0;
 }
 
 h4 {
- font-family: 'Swanky and Moo Moo', cursive;
     font-size: 18px;
     color: #ffffff;
     text-align: center;
 }
 
 h5 {
- font-family: 'Swanky and Moo Moo', cursive;
+    font-family: 'Swanky and Moo Moo', cursive;
     color: #FFFFFF;
 }
 
 p {
- font-family: 'Swanky and Moo Moo', cursive;
     margin: 0;
     color:#808080;
 }
 
 p span {
- font-family: 'Swanky and Moo Moo', cursive;
     color: #FFFFFF;
 }
 
