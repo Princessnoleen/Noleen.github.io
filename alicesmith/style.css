@@ -287,6 +287,38 @@ ul {
 
 /*ABOUT PAGE*/
 
+.page-header {
+    padding-top: 30px;
+    margin-bottom: 50px;
+    background-color: #40E0D0;
+}
+
+.page-header p {
+    padding-left: 15px;
+}
+
+
+/*HOME PAGE CSS*/
+
+.page-header.home {
+    margin-bottom: 0;
+}
+
+.message {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #FFFFFF;
+}
+
+.message h3 {
+    color: #FFFFFF;
+}
+
+
+.main-content-bottom {
+    padding-bottom: 75px;
+}
+
 .contentbox {
     background-color: #FFFFFF;
     
@@ -312,6 +344,44 @@ ul {
     padding: 13px;
     margin-bottom: 70px;
 }
+
+
+
+.contentbox>img {
+    margin-right: 15px;
+}
+
+.content-beige>img {
+    margin-left: 15px;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 14px;
+    background-color: #D3D3D3;
+    /* LightGray*/
+    color: #FFF;
+    padding: 15px 20px;
+    border: 0 none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    -webkit-transition: background 0.3s ease 0s;
+    -moz-transition: background 0.3s ease-out;
+    -ms-transition: background 0.3s ease-out;
+    -o-transition: background 0.3s ease-out;
+    transition: background 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #588B8D;
+    /* lighter teal */
+}
+
+.message .btn {
+    margin-left: 20px;
+}
+
 
 /*footer CSS*/
 
