@@ -287,34 +287,31 @@ ul {
 
 /*ABOUT PAGE*/
 
-.team h1 {
-    margin-bottom: 40px;
+.contentbox {
+    background-color: #FFFFFF;
+    
 }
 
-.team-member {
-    margin-bottom: 20px;
+.contentbox h4 {
+    font-size: 20px;
+    font-weight: normal;
 }
 
-.team-member a {
-    color: #1E1F1F;
+.contentbox li {
+    font-size: 18px;
+    font-weight: 200;
+    color: #333333;
 }
 
-.team-member a:hover {
-    color: #5adae2;
-    /* turquoise */
+.contentbox-beige a {
+    color:#333333;
 }
 
-.team-member i:hover {
-    color: #5adae2;
-    /* turquoise */
-    background-color: #ffffff/* almost black */
+.contentbox-beige {
+    background-color: #ffffff;
+    padding: 13px;
+    margin-bottom: 70px;
 }
-
-
-.info li {
-    display: inline-block;
-}
-
 
 /*footer CSS*/
 
