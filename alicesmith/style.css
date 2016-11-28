@@ -315,19 +315,19 @@ ul {
     margin-bottom: 0;
 }
 
-.message h1 {
+message1 {
    float: left;
    margin: 10px;
    padding: 10px;
    
 }
-.message h2 {
+message2 {
    float: center;
    margin: 10px;
    padding: 10px;
    
 }
-.message h3 {
+message3 {
    float:right;
    margin: 10px;
    padding: 10px;
