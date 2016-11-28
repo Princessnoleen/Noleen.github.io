@@ -157,9 +157,12 @@ a {
     /* white */
 }
 
-.main-content-top i {
-    color: #FFFFFF;
-    vertical-align: -10px;
+.main-content-top {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
 }
 
 .page-header h1 {
