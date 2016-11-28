@@ -317,21 +317,14 @@ ul {
 
 message1 {
    float: left;
-   margin: 10px;
-   padding: 10px;
-   
 }
+
 message2 {
    float: center;
-   margin: 10px;
-   padding: 10px;
-   
-}
+ }
+
 message3 {
    float:right;
-   margin: 10px;
-   padding: 10px;
-   
 }
 
 
