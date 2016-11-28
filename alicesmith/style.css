@@ -294,9 +294,11 @@ ul {
 }
 
 article {
-	margin-left: 170px;
-          padding: 1em;
-          overflow: hidden;
+   float: center;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
 }
 
 aside {
