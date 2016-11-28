@@ -492,4 +492,207 @@ message3 {
     padding-right: 10px;
 }
 
+/* Small devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+
+	
+    /* Global */
+    .contentbox .one-half {
+        width: 344px;
+}
+	/*PORTFOLIO PAGE*/
+
+.portfolio-item {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.portfolio-title {
+    color: white;
+    text-align: center;
+    height: 308px;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    /* opacity is zero. Nothing displays */
+    padding: 10px;
+    -webkit-transition: opacity 0.3s ease 0s;
+    -moz-transition: opacity 0.3s ease-out;
+    -ms-transition: opacity 0.3s ease-out;
+    -o-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease 0s;
+    /* hide portfolio image text */
+}
+
+.portfolio-title:hover {
+     background-color: #5adae2; /* turquoise */
+   opacity: .9; /* almost opaque */
+
+ 
+}
+    
+ 
+}
+
+.container {
+        width: 768px;
+    }
+
+
+
+.one-whole {
+   width: 748px;
+  }
+    
+.three-quarters {
+   width: 556px;
+ }
+    
+.one-half {
+   width: 364px;
+}
+    
+.one-quarter {
+   width: 172px;
+}
+    
+.two-thirds {
+    width: 492px;
+}
+    
+.one-third {
+    width: 236px;
+}
+    
+.one-sixth {
+   width: 108px;
+    }
+}
+
+.sidebar-form input[type="text"] {
+        height: 30px;
+        width: 125px;
+        padding: 0;
+        margin-bottom: 2px;
+        -webkit-border-radius: 4px 0 0 4px;
+        -moz-border-radius: 4px 0 0 4px;
+        border-radius: 4px 0 0 4px;
+    }
+    
+    .sidebar-form .btn {
+        height: 30px;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 10px;
+        padding-right: 10px;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        border: 0 none;
+        -webkit-transition: background 0.5s ease 0s;
+        -moz-transition: background 0.5s ease 0s;
+        transition: background 0.5s ease 0s;
+    }
+
+.sidebar {
+  padding: 10px;
+}
+
+
+.sidebar {
+  padding: 10px;
+}
+
+.recent-entries img {
+	 float: left;
+	 padding-right: 10px;
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	
+	
+
+/* Global */ 
+.contentbox .one-half {
+width: 440px;
+}
+
+
+    /* Portfolio */ 
+
+
+.portfolio-title {
+height: 308px;
+}      
+    .portfolio-title h2 {
+        margin-top: 40px;
+    }
+
+.sidebar {
+padding: 10px;
+
+	}
+
+.sidebar {
+padding: 30px;
+    }
+	
+.map iframe {
+width: 620px;
+height: 350px;
+}
+
+
+
+	
+}
+/* Horizontal navigation */
+.nav {
+    padding-top: 60px;
+    max-height: none;
+}
+
+
+.nav ul {
+width: auto;
+}
+
+
+.nav li {
+display: inline-block;
+border: 0 none;
+border-right: 1px solid #dedede;  /* gray */
+}
+
+
+.nav li:last-child {
+border-bottom: 0 none;
+border-right: 0 none;
+}
+
+
+.nav a {
+padding: 0px 10px;
+transition: all 0.15s ease-in-out;
+}
+
+
+.nav a:hover,
+.active a {
+color: #5ADAE2;  /* turquoise */
+background-color: transparent;
+}
+
+
+/* mobile nav */
+.menu-link {
+display: none;
+}
+
+
 </style>
+
