@@ -89,12 +89,12 @@ p span {
 }
 
 a {
-    color: #FFFFFF;
+    color: #000000;
     text-decoration: none;
 }
 
 .header {
-    background-color: #333333;
+    background-color: #FFFFFF;
 }
 
 .main {
