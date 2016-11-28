@@ -117,9 +117,10 @@ a {
 
 .nav {
 	float:right;
-	max-width:160px;
-	margin: 0;
-	padding: 1em;
+	 text-decoration:none;
+	color:#000000;
+	padding:8px 8px 8px 8px;
+	
 }
 
 .nav ul li {
