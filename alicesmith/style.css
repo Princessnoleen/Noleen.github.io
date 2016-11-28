@@ -16,6 +16,7 @@
 
 }
 
+section
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
@@ -302,7 +303,7 @@ ul {
 section {
   float: left;
   margin: 0 1.5%;
-  width: 15%;
+  width: 25%;
 }
 
 /*ABOUT PAGE*/
