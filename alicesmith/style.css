@@ -116,10 +116,12 @@ a {
 }
 
 .nav {
-	float:right;
+	float:center;
 	 text-decoration:none;
 	color:#000000;
-	padding:8px 8px 8px 8px;
+	padding:10em;
+	background-color:white;
+	color:black;
 	
 }
 
