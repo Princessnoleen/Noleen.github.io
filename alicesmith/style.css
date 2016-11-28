@@ -198,7 +198,9 @@ ul {
     list-style: none;
 }
 
-
+figure {
+	background-color:black;
+}
 /*Main Content */
 
 .page-header {
