@@ -299,6 +299,11 @@ article {
           overflow: hidden;
 }
 
+article1 {
+	margin-right:170px;
+          padding: 1em;
+          overflow: hidden;
+}
 /*ABOUT PAGE*/
 
 .page-header {
