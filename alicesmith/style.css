@@ -295,18 +295,7 @@ ul {
     margin-left: 20px;
 }
 
-article {
-   float: center;
-   margin: 10px;
-   padding: 10px;
-  
-}
 
-aside {
-	margin-right:170px;
-          padding: 1em;
-          overflow: hidden;
-}
 /*ABOUT PAGE*/
 
 .page-header {
@@ -326,15 +315,25 @@ aside {
     margin-bottom: 0;
 }
 
-.message {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    background-color: #FFFFFF;
+.message h1 {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   
+}
+.message h2 {
+   float: center;
+   margin: 10px;
+   padding: 10px;
+   
+}
+.message h3 {
+   float:right;
+   margin: 10px;
+   padding: 10px;
+   
 }
 
-.message h3 {
-    color: #FFFFFF;
-}
 
 
 .main-content-bottom {
