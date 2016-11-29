@@ -44,7 +44,7 @@ html {
 /* Body Tag Selector Role */
 
 body {
-    font-family: 'Swanky and Moo Moo', cursive;
+    font-family: 'Swanky and Moo Moo';
    
     color: #FFFFFF;
 }
@@ -201,6 +201,7 @@ ul {
 figure {
 	background-color:black;
 	color:white;
+	font:Swanky and Moo Moo', cursive;
 }
 /*Main Content */
 
