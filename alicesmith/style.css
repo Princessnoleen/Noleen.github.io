@@ -120,7 +120,8 @@ a {
 .nav {
 	float:center;
 	 text-decoration:none;
-	color:#FFFFFF;
+	color:#000000;
+	background-color:#FFFFFF;
 	padding:1em;
 	
 }
