@@ -236,9 +236,8 @@ figure {
     padding-bottom: 75px;
 }
 
-contentbox {
-    background-color: #D3D3D3;
-    
+.contentbox {
+    background-color:#D3D3D3;
 }
 
 .contentbox h4 {
