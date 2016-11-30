@@ -412,8 +412,9 @@ message3 {
 
 /*footer CSS*/
 
-.footer {
-    background-color: #333333;
+footer {
+	background-color:black;
+	color:grey;
 }
 
 
