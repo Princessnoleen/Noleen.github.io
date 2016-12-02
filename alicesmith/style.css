@@ -303,6 +303,10 @@ figure {
     width: 236px;
 }
 
+.one-half {
+   width: 364px;
+}
+
 section {
   float: left;
   margin: 0 1.5%;
