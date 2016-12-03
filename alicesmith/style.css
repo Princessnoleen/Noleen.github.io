@@ -321,10 +321,10 @@ aside {
 
 form {
     background-color: white;
-    width: 450px;
+    width: 400px;
     border: 1px black groove;
-    padding: 30px;
-    margin: 15px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .page-header {
