@@ -329,6 +329,13 @@ aside {
     padding-left: 15px;
 }
 
+border {
+    background-color: white;
+    width: 450px;
+    border: 1px black groove;
+    padding: 30px;
+    margin: 15px;
+}
 
 /*HOME PAGE CSS*/
 
