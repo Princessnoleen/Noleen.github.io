@@ -319,6 +319,14 @@ aside {
 
 /*ABOUT PAGE*/
 
+border {
+    background-color: white;
+    width: 450px;
+    border: 1px black groove;
+    padding: 30px;
+    margin: 15px;
+}
+
 .page-header {
     padding-top: 30px;
     margin-bottom: 50px;
@@ -329,13 +337,7 @@ aside {
     padding-left: 15px;
 }
 
-border {
-    background-color: white;
-    width: 450px;
-    border: 1px black groove;
-    padding: 30px;
-    margin: 15px;
-}
+
 
 /*HOME PAGE CSS*/
 
