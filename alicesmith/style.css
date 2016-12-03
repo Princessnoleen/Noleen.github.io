@@ -319,7 +319,7 @@ aside {
 
 /*ABOUT PAGE*/
 
-border {
+box {
     background-color: white;
     width: 450px;
     border: 1px black groove;
