@@ -59,7 +59,7 @@ h1 span {
 
 h2 {
    font-size: 32px;
-    color: #d3d3d3;
+    color: #000000;
     margin:0;
     padding:30px;
 }
@@ -71,7 +71,7 @@ h3 {
 }
 
 h5 {
-    color: #FFFFFF;
+    color: #d3d3d3;
 }
 
 p {
