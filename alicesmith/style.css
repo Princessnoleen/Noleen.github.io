@@ -59,7 +59,7 @@ h1 span {
 
 h2 {
    font-size: 32px;
-    color: #000000;
+    color: #d3d3d3;
     margin:0;
     padding:30px;
 }
@@ -68,10 +68,6 @@ h3 {
     color: #A9A9A9;
 	font-size: 12px;
     
-}
-
-h4 {
-    color: #d3d3d3;
 }
 
 h5 {
