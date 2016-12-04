@@ -204,6 +204,11 @@ figure {
 	color:white;
 	font-family: 'Swanky and Moo Moo', cursive;
 }
+
+background {
+	background-color:Gainsboro;
+}
+
 /*Main Content */
 
 .page-header {
