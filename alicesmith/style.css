@@ -48,6 +48,11 @@ body {
     color: #FFFFFF;
 }
 
+body1{
+	background-color:Gainsboro;
+}
+
+
 h1 {
     font-size: 38px;
     color: #000000;
@@ -203,10 +208,6 @@ figure {
 	background-color:black;
 	color:white;
 	font-family: 'Swanky and Moo Moo', cursive;
-}
-
-bgcolor{
-	background-color:Gainsboro;
 }
 
 /*Main Content */
