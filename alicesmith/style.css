@@ -59,9 +59,10 @@ h1 span {
 }
 
 h2 {
-   font-size: 32px;
+    font-size: 32px;
     color: #000000;
     font-size: 18px;
+    background color:#ADADAD;
 }
 
 h4 {
@@ -90,10 +91,6 @@ a {
     text-decoration: none;
 }
 
-input[type="section"] {
-      background: #3d404e;
-      border: #7f83a2 1px solid;
-   }
 
 .header {
     background-color: #FFFFFF;
