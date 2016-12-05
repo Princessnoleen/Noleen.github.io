@@ -66,8 +66,8 @@ h2 {
 }
 
 h4 {
-    background-image: url(/images/page2-icon1.png, images/page2-icon2.png, images/page2-icon3.png); } 
-    color:#000000;
+    background-image color: url(/images/page2-icon1.png, images/page2-icon2.png, images/page2-icon3.png)#808080; } 
+    color:#FFFFFF;
     font-size: 12px;
     font-weight: 200;
 }
