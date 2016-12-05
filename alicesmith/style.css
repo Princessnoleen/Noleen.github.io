@@ -313,7 +313,8 @@ article {
 section {
   float: left;
   margin: 0 1.5%;
-  width: 25%;
+  height: 50px;
+    width: 150px;
 }
 
 aside {
