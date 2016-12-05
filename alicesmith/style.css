@@ -66,10 +66,11 @@ h2 {
 }
 
 h4 {
+    margin: 30px;
     background-color: #ADADAD;
     color:#000000;
     font-size: 12px;
-    opacity: 0.5;
+    opacity: 1.5;
 }
 
 
