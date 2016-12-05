@@ -308,7 +308,8 @@ figure {
 
 section {
   float: left;
-  background-color: #ADADAD;
+  margin: 0 1.5%;
+  width: 25%;
 
 }
 
