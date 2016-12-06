@@ -61,8 +61,11 @@ h2 {
     color: #000000;
     font-size: 24px;
     margin: 20px 10 10 10;
-    font-family: "sans-serif/Arial"
-	     padding:1em;
+    font-family: "sans-serif/Arial";
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
  
 
