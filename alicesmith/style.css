@@ -338,7 +338,17 @@ figure {
   
 }
 
+.column-left {
+    width: 33%;
+    left: 0;
+    position: absolute;
+}
 
+.column-right {
+    width: 33%;
+    left: 0;
+    position: absolute;
+}
 
 article {
     background-color:#DCDCDC;
