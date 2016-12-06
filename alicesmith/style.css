@@ -218,6 +218,11 @@ figure {
 
 }
 
+.column {
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 10px;
+}
 /*Main Content */
 
 .page-header {
