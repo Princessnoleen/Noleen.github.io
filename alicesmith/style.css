@@ -310,11 +310,6 @@ figure {
     margin-left: 20px;
 }
 
-.container {
-        width: 768px;
-    }
-
-
 
 .one-whole {
    width: 748px;
@@ -342,8 +337,9 @@ figure {
     
 .one-sixth {
    width: 108px;
-    }
+  
 }
+
 
 
 article {
