@@ -338,14 +338,6 @@ figure {
   
 }
 
-.column {
-    background: #000000;
-    width: 100%;
-    left: 0;
-    right: 0;
-    position: absolute;
-}
-
 article {
     background-color:#DCDCDC;
 }
@@ -477,7 +469,7 @@ message3 {
 
 /*footer CSS*/
 
-footer {
+.footer {
 	background-color:black;
 	color:grey;
 	font-size: 18px;
