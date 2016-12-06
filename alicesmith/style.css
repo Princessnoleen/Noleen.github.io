@@ -340,11 +340,13 @@ figure {
     
 .one-third {
     width: 236px;
-    text-align:center;
+    padding-top:10px;
+  
 }
 
 .one-fourth {
-  text-align:center;
+  text-align:left;
+   padding-top:10px;
 }
     
 .one-sixth {
