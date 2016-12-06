@@ -340,6 +340,11 @@ figure {
     
 .one-third {
     width: 236px;
+    text-align:center;
+}
+
+.one-fourth {
+  text-align:center;
 }
     
 .one-sixth {
