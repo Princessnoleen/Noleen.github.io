@@ -322,7 +322,10 @@ figure {
 }
 
 article {
-	background-color:grey;
+
+   height: 200px;
+    width: 50%;
+    background-color:grey;
 }
 
 section {
