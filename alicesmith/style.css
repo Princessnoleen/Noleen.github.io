@@ -310,13 +310,41 @@ figure {
     margin-left: 20px;
 }
 
+.container {
+        width: 768px;
+    }
+
+
+
+.one-whole {
+   width: 748px;
+  }
+    
+.three-quarters {
+   width: 556px;
+ }
+    
+.one-half {
+   width: 364px;
+}
+    
+.one-quarter {
+   width: 172px;
+}
+    
+.two-thirds {
+    width: 492px;
+}
+    
 .one-third {
     width: 236px;
 }
-
-.one-half {
-   width: 300px;
+    
+.one-sixth {
+   width: 108px;
+    }
 }
+
 
 article {
     background-color:#DCDCDC;
