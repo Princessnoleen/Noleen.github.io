@@ -307,7 +307,7 @@ figure {
 }
 
 article {
-	background-color:#ADADAD;
+	background-color:grey;
 }
 
 section {
@@ -315,7 +315,6 @@ section {
   width: 25%;
   font-size: 18px;
   font-weight: 200;
-
 }
 
 aside {
