@@ -7,7 +7,6 @@
 /* Smartphone landscape */
 @media (min-width: 480px) {
 
-
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -214,6 +213,8 @@ figure {
 	background-color:black;
 	color:white;
 	font-family: 'Swanky and Moo Moo', cursive;
+	width:10px;
+	height:50px;
 }
 
 /*Main Content */
