@@ -339,8 +339,9 @@ form {
     height:70px;
     width: 270px;
     border: 1px black groove;
-    padding: 7px;
-    margin: 7px;
+    padding: 10px;
+    margin: 10px;
+    font-size:18px;
 }
 
 .page-header {
