@@ -203,6 +203,10 @@ a {
     float: right;
 }
 
+.column {
+  padding:10px 50px;
+}
+
 ul {
     color: #000000;
     padding: 12px;
