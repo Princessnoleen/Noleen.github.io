@@ -78,6 +78,9 @@ h4 {
     font-size: 12px;
     opacity: 1.5;
     padding-bottom: 50px;
+    height: 200px;
+    width: 50%;
+    background-color:grey;
 }
 
 
