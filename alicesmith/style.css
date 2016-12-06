@@ -339,14 +339,16 @@ figure {
 }
 
 .column-left {
+    background: #000000;
     width: 33%;
     left: 0;
     position: absolute;
 }
 
 .column-right {
+   background: #000000;
     width: 33%;
-    left: 0;
+    right: 0;
     position: absolute;
 }
 
