@@ -345,6 +345,13 @@ figure {
     position: absolute;
 }
 
+.column-center {
+    width: 34%;
+    background: #000000;
+    margin-left: 33%;
+    position: absolute;
+}
+
 .column-right {
    background: #000000;
     width: 33%;
