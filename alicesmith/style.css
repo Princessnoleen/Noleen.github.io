@@ -204,8 +204,10 @@ a {
 }
 
 .column {
+    margin-top:10px;
     margin-left: 10px;
     margin-right: 30px;
+    margin-bottom:20px;
   }
 	
 }
