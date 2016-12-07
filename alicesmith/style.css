@@ -108,6 +108,12 @@ a {
     text-decoration: none;
 }
 
+ul {
+  float: left;
+  width: 25%;
+  margin: 0 1.5%;
+}
+
 
 .header {
     background-color: #FFFFFF;
