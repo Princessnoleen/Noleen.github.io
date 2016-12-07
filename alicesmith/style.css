@@ -347,6 +347,7 @@ figure {
     
 .one-thirds {
     width: 236px;
+    background-position:left right;
 }
   
 }
