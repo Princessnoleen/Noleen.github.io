@@ -135,7 +135,7 @@ a {
 }
 
 .nav {
-	float:center;
+	text-align:center;
 	 text-decoration:none;
 	color:#000000;
 	background-color:#FFFFFF;
