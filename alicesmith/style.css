@@ -76,10 +76,11 @@ h3 {
 
 
 h4 {
-    color:#000000;
-    background-color:#D3D3D3;
-    font-size: 12px;
-    opacity: 1.5;
+    text-align: left;
+    width:10px;
+    height:10px;
+    padding-top:-4cm;
+    margin:auto;
    }
 
 
@@ -98,24 +99,15 @@ p span {
     color: #A9A9A9;
 }
 
-p.left {
-    text-align: left;
-    width:10px;
-    height:10px;
-    padding-top:-4cm;
-    margin:auto;
-}
-
-p.main {
+h5 {
     text-align: center;
     width:10px;
     height:10px;
     padding-top:-4cm;
     margin:auto;
-    
 }
 
-p.right {
+h6 {
     text-align: right;
     width:10px;
     height:10px;
