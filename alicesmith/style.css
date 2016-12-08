@@ -233,6 +233,10 @@ figure {
     -webkit-column-width: 100px; /* Chrome, Safari, Opera */
     -moz-column-width: 100px; /* Firefox */
     column-width: 100px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 10px;
+
 }
     
 /*Main Content */
