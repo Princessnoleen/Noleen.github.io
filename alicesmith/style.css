@@ -110,6 +110,7 @@ a {
 }
 
 
+
 .header {
     background-color: #FFFFFF;
    text-align:center;
@@ -226,10 +227,14 @@ figure {
 }
 
 .column {
-    margin-bottom: 10px;
-    margin-right: 150px;
-    margin-left: 10px;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+    -moz-column-width: 100px; /* Firefox */
+    column-width: 100px;
 }
+    
 /*Main Content */
 
 .page-header {
