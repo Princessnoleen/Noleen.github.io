@@ -339,7 +339,7 @@ figure {
 }
     
 .one-quarter {
-  float: left;
+  float: center;
   width: 25%;
   margin: 0 1.5%;
   
