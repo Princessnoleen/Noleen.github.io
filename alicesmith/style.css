@@ -108,21 +108,21 @@ p.left {
 
 p.main {
     text-align: center;
-    width:100px;
-    height:100px;
-    padding-bottom:1cm;
-    margin:12cm;
+    width:10px;
+    height:10px;
+    padding-top:-4cm;
+    margin:auto;
     
 }
 
 p.right {
     text-align: right;
-    width:500px;
-    height:100px;
-    margin:date;
-    padding-right:auto;
-    padding-top:-10cm;
+    width:10px;
+    height:10px;
+    padding-top:-4cm;
+    margin:auto;
 }
+
 a {
     color: #000000;
     text-decoration: none;
