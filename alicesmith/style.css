@@ -339,10 +339,11 @@ figure {
 }
     
 .one-quarter {
-  float: center;
-  width: 25%;
-  margin: 0 1.5%;
-  
+  padding-top: 10px;
+  padding-right: 300px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
 	
 }
     
