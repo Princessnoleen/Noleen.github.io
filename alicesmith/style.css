@@ -75,7 +75,7 @@ h3 {
 }
 
 
-h4 {
+p1 {
     text-align: left;
     width:10px;
     height:10px;
@@ -99,7 +99,7 @@ p span {
     color: #A9A9A9;
 }
 
-h5 {
+p2 {
     text-align: center;
     width:10px;
     height:10px;
@@ -107,7 +107,7 @@ h5 {
     margin:auto;
 }
 
-h6 {
+p3 {
     text-align: right;
     width:10px;
     height:10px;
