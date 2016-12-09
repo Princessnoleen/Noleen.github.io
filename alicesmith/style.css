@@ -94,7 +94,7 @@ a {
 }
 
 .row {
-   overflow: hidden;
+    overflow: hidden;
 }
 
 .container {
@@ -316,8 +316,8 @@ h5 {
  }
         
 .one-quarter {
-  width: 172px;	
-   margin: 5px 10px 5px 10px;
+  width: 220px;	
+   margin: 5px 10px 0 0;
   padding: 3px;
   display: inline-block;
 }
