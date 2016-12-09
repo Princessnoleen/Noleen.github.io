@@ -317,6 +317,9 @@ h5 {
         
 .one-quarter {
   width: 172px;	
+   margin: 5px 10px 0 0;
+  padding: 3px;
+  display: inline-block;
 }
     
 .two-thirds {
