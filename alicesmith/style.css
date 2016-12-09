@@ -318,10 +318,8 @@ h5 {
 
     
 .one-quarter {
-  float:left;
-  
-	
-}
+  width:220px;
+ }
     
 .two-thirds {
     width: 492px;
