@@ -94,10 +94,6 @@ a {
 }
 
 .row {
-   width: 172px;	
-   margin: 5px 10px 5px 10px;
-  padding: 0px;
-  display: inline-block;
    overflow: hidden;
 }
 
