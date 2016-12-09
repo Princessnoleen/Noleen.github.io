@@ -98,7 +98,7 @@ a {
 }
 
 .container {
-	960px;
+	width:960px;
 }
 
 /* GRID RULES */
