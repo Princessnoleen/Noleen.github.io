@@ -381,7 +381,11 @@ form {
     padding-left: 15px;
 }
 
-
+.background img {
+	margin:5px;
+	padding:5px;
+	width:75px;
+}
 
 /*HOME PAGE CSS*/
 
