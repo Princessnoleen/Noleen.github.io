@@ -80,27 +80,11 @@ p span {
     color: #A9A9A9;
 }
 
-p2 {
-    text-align: center;
-    width:10px;
-    height:10px;
-    padding-top:-4cm;
-    margin:auto;
-}
-
-p3 {
-    text-align: right;
-    width:10px;
-    height:10px;
-    padding-top:-4cm;
-    margin:auto;
-}
 
 a {
     color: #000000;
     text-decoration: none;
 }
-
 
 
 .header {
