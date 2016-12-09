@@ -328,10 +328,7 @@ h5 {
     
 .one-third {
   float:left;
-  width: 225px;	
-  margin: 5px 10px 0 0;
-  padding: 3px;
-display: inline-block;
+  
 }
 
 .one-fourth {
