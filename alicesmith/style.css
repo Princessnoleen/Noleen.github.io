@@ -347,12 +347,13 @@ article {
 }
 
 section {
-   float:left
+   float:left;
   }
 
 	
 	
 aside {
+  float:right;
   margin: 0 1.5%;
   width: 250%;
 }
