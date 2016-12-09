@@ -311,9 +311,7 @@ h5 {
    width: 556px;
  }
     
-.one-half {
-   width: 364px;
-}
+
     
 .one-quarter {
  
@@ -328,15 +326,11 @@ h5 {
 }
     
 .one-third {
-  
-    float:left;
-
-  
+  float:left;
 }
 
 .one-fourth {
- 
-   padding-top:10px;
+ padding-top:10px;
 }
     
 .one-sixth {
