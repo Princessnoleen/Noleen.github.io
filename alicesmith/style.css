@@ -361,6 +361,7 @@ aside {
 /*ABOUT PAGE*/
 
 form {
+    float:right;
     background-color: white;
     height:90px;
     width: 250px;
