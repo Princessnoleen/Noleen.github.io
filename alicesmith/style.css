@@ -368,8 +368,8 @@ h5 {
     
 .one-third {
     width: 236px;
-    background-position:left right;
-}
+    float:left;
+
   
 }
 
