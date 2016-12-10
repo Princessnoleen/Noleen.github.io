@@ -390,9 +390,12 @@ form {
 }
 
 .background img {
-	margin:5px;
-	padding-top:5px;
-	width:25px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 /*HOME PAGE CSS*/
