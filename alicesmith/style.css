@@ -371,9 +371,9 @@ aside {
 form {
     float:right;
     background-color: white;
-    height:90px;
-    width: 250px;
-    border: 1px black groove;
+    height:50px;
+    width: 500px;
+    border: 1px grey groove;
     padding: 10px;
     margin: 10px;
  
