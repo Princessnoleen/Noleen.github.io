@@ -356,8 +356,11 @@ article {
 }
 
 section {
-   float:left;
-  }
+   float: left;
+  margin: 0 1.5%;
+  width: 25%;
+	
+}
 
 	
 	
