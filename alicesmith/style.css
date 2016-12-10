@@ -72,7 +72,7 @@ p {
    font-size:14px;
     text-align:left;
     padding-left:20px;
-    padding-bottom:2px;
+    padding-bottom:-20px;
    
 }
 
