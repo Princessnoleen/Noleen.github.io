@@ -71,8 +71,8 @@ p {
     width: 300px;
    font-size:14px;
     text-align:left;
-    padding-left:20px;
-   margin-top:auto;
+    margin-left::20px;
+   margin-top:10px;
 }
 
 p span {
