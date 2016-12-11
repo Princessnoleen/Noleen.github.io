@@ -240,11 +240,13 @@ h5 {
 
 .button {
     width: 100px;
-    height: 100px;
-    background-color: #000;
-    border: solid 1px #000;
-    border-radius: 50%
+    height: 30px;
+    background-color: grey;
+    color:black;
+    border: solid 1px grey;
+    border-radius: 5px;
 }
+
 /*HOME PAGE CSS*/
 
 .page-header.home {
