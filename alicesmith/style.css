@@ -241,7 +241,8 @@ h5 {
 .button {
     width: 100px;
     height: 100px;
-    background-color: #000;
+    color:#000000;
+    background-color:#DCDCDC;
     border: solid 1px #000;
     border-radius: 50%;
 }
