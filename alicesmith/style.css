@@ -219,7 +219,9 @@ figure {
 	font-size:24px;
 	width:150px;
 	height:100px;
-	padding-top:40px;
+	padding-bottom: 10px;
+	padding-top:-50px;
+	margin:38px 50px 0px 200px;
 
 }
 
