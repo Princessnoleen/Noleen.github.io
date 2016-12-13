@@ -256,10 +256,11 @@ h5 {
     background-color:#A9A9A9;
     color:#000000;
     padding: 20px; 
-    width: 150px;
+    width: 100px;
     height: 20px;   
     font: 13px sans-serif;
    border: 2px solid:#A9A9A9;
+margin-bottom:4px;
 }
 
 /*HOME PAGE CSS*/
