@@ -209,6 +209,10 @@ span {
    padding-bottom:4px;
 }
 
+.pull-left {
+    float: right;
+   padding-bottom:4px;
+}
 
 ul {
     color: #000000;
