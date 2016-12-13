@@ -206,6 +206,7 @@ span {
 
 .pull-right {
     float: right;
+   padding-bottom:4px;
 }
 
 
