@@ -509,7 +509,7 @@ message3 {
 	background-color:black;
 	color:grey;
 	font-size: 18px;
-	width:50%;
+	width:100%;
          bottom: 0;
         position: relative;
    }
