@@ -514,33 +514,7 @@ message3 {
         position: relative;
    }
 
-.tile {
-    margin: 0 0 5px 5px;
-    padding: 10px;
-    background-color: #40E0D0;
-    color: #FFFFFF;
-}
 
-.tile p {
-    margin: 0;
-}
-
-.tile i {
-    font-size: 108px;
-}
-
-.team-member h1 {
-    text-align: center;
-}
-
-.team-member ul {
-    text-align: right;
-}
-
-.recent-entries img {
-    float: left;
-    padding-right: 10px;
-}
 
  
 
