@@ -514,20 +514,6 @@ message3 {
         position: relative;
    }
 
-.footer p {
-    font-size: 16px;
-    font-weight: 200;
-    color: #cccccc;
-    margin-top: 0;
-    background-color: #333333;
-}
-
-.footer ul {
-    font-size: 16px;
-    font-weight: 200;
-}
-
-
 .tile {
     margin: 0 0 5px 5px;
     padding: 10px;
