@@ -81,8 +81,7 @@ p {
   padding-left:0px;
     }
 
-
-p span {
+;p span {
     background-color:#000000;
     color:#FFFFFF;
     font-family: 'Swanky and Moo Moo', cursive; 
@@ -376,7 +375,7 @@ cursor: pointer;
 article {
     background-color:#DCDCDC;
     width:1000px;
-    height:500px;
+    height:400px;
 	
 }
 
