@@ -65,9 +65,11 @@ h3 {
 
 h5 {
      position:absolute;
+	left:0.5em;
 	color:white;
 	font: bold 24px  Sans-Serif;   
 	padding: 2px; 
+	font-size: 11px;
 
 }
 
