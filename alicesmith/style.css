@@ -64,10 +64,9 @@ h3 {
 }
 
 h5 {
-position: absolute;
+position: relative;
 	top:100px;
 	left:2px;;
-	width: 100%;
 	color:white;
 	font: bold 24px  Sans-Serif;   
 	padding: 10px; 
