@@ -59,6 +59,7 @@ h3 {
     padding-bottom:0px;
     padding-top:-2px;
      padding-right:5px;
+	float:right;
 }
 
 
@@ -84,6 +85,7 @@ margin-top:2px;
     padding-top:-50px;
   padding-right:10px;
   padding-left:0px;
+	float:right;
     }
 
 p span {
