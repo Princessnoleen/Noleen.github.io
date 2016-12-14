@@ -64,20 +64,19 @@ h3 {
 }
 
 h5 {
-
-	position:absolute;
+     position:absolute;
 	top:100px;
 	left:2px;;
 	color:white;
 	font: bold 24px  Sans-Serif;   
-	padding: 10px; 
+	padding: 2px; 
 
 }
 
 h5 span {
 color: white; 
 font: bold 24px Sans-Serif;
-padding: 10px; 
+padding: 2px; 
 }
 
 spacer {
