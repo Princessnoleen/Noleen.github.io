@@ -75,6 +75,10 @@ position: absolute;
 
 }
 
+h5 span.spacer {
+   padding:0 5px;
+}
+
 p1 {
     text-align: left;
     width:10px;
