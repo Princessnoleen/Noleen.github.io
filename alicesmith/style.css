@@ -435,9 +435,15 @@ section {
   margin: 0 1.5%;
   width: 25%;
   padding-right:15px;
-	
+   position:absolute;
+    left:0;
+    color:white;
+    font-size: 40px;
+    font-family:Sans-Serif;
+    padding-top:100px;
+    width: 500px; 
+    margin-right:10px;
 }
-
 	
 	
 aside {
