@@ -81,7 +81,7 @@ h6 {
 	font: bold 48px  Sans-Serif;
 	text-align:center;
 	word-wrap: break-word;
-	padding-bottom: 50%;
+	margin: 10px 15px 10px 8px;
 }
 
 h5 span {
