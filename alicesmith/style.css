@@ -573,8 +573,8 @@ message3 {
 	color:grey;
 	font-size: 18px;
 	height: 200px;
-	width:100%;
-        bottom: 0;
+        width: 900px;
+        margin: 0px 0px 0px 0px;
   }
 
 
