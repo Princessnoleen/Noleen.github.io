@@ -69,17 +69,24 @@ h5 {
 	color:white;
 	font: bold 48px  Sans-Serif;
 	margin: 10px 5px 0px 4px;
+	 width: 75px; 
 	
 }
 
 h6 {
+	width: 100px;
+}
+
+h7 {
 	position:absolute;
         left:0;
 	color:#FF7F50;
 	font-size:48px;  
 	font-family: 'Swanky and Moo Moo', cursive;
 	margin: 200px 15px 10px 40px;
+	width: 100px; 
 }
+
 
 h5 span {
 color: white; 
