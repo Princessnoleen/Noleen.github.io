@@ -76,12 +76,12 @@ h5 {
 
 h6 {
 	position:absolute;
-       left:0;
+        left:0;
 	color:#FF7F50;
 	font: bold 48px  Sans-Serif;
 	text-align:center;
 	word-wrap: break-word;
-	padding-top:5px;
+	padding-top:-5px;
 }
 
 h5 span {
