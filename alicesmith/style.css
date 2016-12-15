@@ -75,6 +75,7 @@ h5 {
 
 h6 {
 	width: 100px;
+	margin: 10px 5px 0px 4px;
 }
 
 h7 {
@@ -83,7 +84,7 @@ h7 {
 	color:#FF7F50;
 	font-size:48px;  
 	font-family: 'Swanky and Moo Moo', cursive;
-	margin: 200px 15px 10px 40px;
+	margin: 10px 5px 0px 4px;
 	width: 100px; 
 }
 
