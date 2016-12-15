@@ -67,7 +67,7 @@ h5 {
      position:absolute;
        left:0;
 	color:white;
-	font: bold 48px  Sans-Serif;
+	font: 24px  Sans-Serif;
 	margin: 125px 5px 0px 10px;
 	 width: 75px; 
 	
@@ -76,7 +76,7 @@ h5 {
 h6 {
 	width: 500px;
 	margin: 150px 5px 0px 10px;
-	font: bold 48px  Sans-Serif;
+	font: 24px  Sans-Serif;
 }
 
 h7 {
