@@ -68,7 +68,8 @@ h5 {
        left:0;
 	top:0px;
 	color:white;
-	font: bold 24px  Sans-Serif;   
+	font: bold 48px  Sans-Serif;
+	text-align:center;
 }
 
 h5 span {
