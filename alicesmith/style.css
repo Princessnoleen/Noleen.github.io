@@ -67,7 +67,7 @@ h5 {
      position:absolute;
        left:0;
 	color:white;
-	font-size: 42px;
+	font-size: 48px;
 	font-family:Sans-Serif;
 	margin:50px 5px 0px 10px;
 	 width: 75px; 
@@ -80,7 +80,7 @@ h6 {
 	color:white;
 	width: 400px;
 	margin: 200px 5px 0px 10px;
-	font: 36px;
+	font-size: 46px;
 	font-family:Sans-Serif;
 }
 
@@ -88,7 +88,7 @@ h7 {
 	position:absolute;
         left:0;
 	color:#FF7F50;
-	font:  36px  Sans-Serif;
+	font-size:  36px;
 	font-family: 'Swanky and Moo Moo', cursive;
 	margin: 250px 5px 0px 10px;
 	width: 500px; 
