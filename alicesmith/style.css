@@ -69,7 +69,6 @@ h5 {
 	color:white;
 	font: bold 48px  Sans-Serif;
 	text-align:center;
-	word-wrap: break-word;
 	padding-top:5px;
 	
 }
@@ -81,7 +80,6 @@ h6 {
 	font-size:48px;  
 	font-family: 'Swanky and Moo Moo', cursive;
 	text-align:center;
-	word-wrap: break-word;
 	margin: 200px 15px 10px 40px;
 }
 
