@@ -80,8 +80,9 @@ span {
 	color:white;
 	font-size: 40px;
 	font-family:Sans-Serif;
-        padding:0px 0px 0px 0px;
+        padding-top:20px;
 	width: 500px; 
+	text-align:center;
 }
 
 h7 {
