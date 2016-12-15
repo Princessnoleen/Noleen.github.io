@@ -66,11 +66,12 @@ h3 {
 h5 {
      position:absolute;
        left:0;
-	top:0px;
 	color:white;
 	font: bold 48px  Sans-Serif;
 	text-align:center;
 	word-wrap: break-word;
+	padding-top:5px;
+	
 }
 
 h5 span {
