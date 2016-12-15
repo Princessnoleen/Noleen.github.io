@@ -78,10 +78,11 @@ h6 {
 	position:absolute;
         left:0;
 	color:#FF7F50;
-	font: bold 48px  Sans-Serif;
+	font-size:48px  
+	font-type:Sans-Serif;
 	text-align:center;
 	word-wrap: break-word;
-	margin: 300px 15px 10px 8px;
+	margin: 200px 15px 10px 8px;
 }
 
 h5 span {
