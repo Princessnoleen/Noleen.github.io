@@ -81,6 +81,10 @@ h6 {
 	width: 400px;
 	font-size: 40px;
 	font-family:Sans-Serif;
+	padding-top: 0px;
+        padding-right: 30px;
+        padding-bottom: 0px;
+        padding-left: 80px;
 }
 
 h7 {
