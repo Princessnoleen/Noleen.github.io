@@ -74,6 +74,9 @@ h5 {
 }
 
 h6 {
+	position:absolute;
+	left:0;
+	color:white;
 	width: 500px;
 	margin: 100px 5px 0px 10px;
 	font: 36px  Sans-Serif;
