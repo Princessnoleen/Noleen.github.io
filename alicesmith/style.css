@@ -372,7 +372,6 @@ cursor: pointer;
 
 .btn:hover {
     background-color: #B45737;
-    /* lighter teal */
 }
 
 .message .btn {
@@ -556,10 +555,6 @@ message3 {
     transition: background 0.3s ease-in-out;
 }
 
-.btn:hover {
-    background-color: #588B8D;
-    /* lighter teal */
-}
 
 .message .btn {
     margin-left: 20px;
