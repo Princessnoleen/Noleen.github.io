@@ -28,8 +28,6 @@
 
                          <li>   <a href="index.html" style="text-decoration:none">Home&nbsp;&nbsp;&nbsp;</a></li>
                         <!-- Link, make href attribute value = "index.html" -->
-                        <li><a href="about.html" style="text-decoration:none">About US&nbsp;&nbsp;&nbsp;</a></li>
-                        <!-- Link, make href attribute value = "about.html" -->
                         <li class="active"><a href="portfolio.html" style="text-decoration:none">Portfolio&nbsp;&nbsp;&nbsp;</a></li>
                         <!-- Link, make href attribute value = "portfolio.html" -->
                         <li><a href="blog.html" style="text-decoration:none">Blog&nbsp;&nbsp;&nbsp;</a></li>
@@ -52,7 +50,7 @@
 <h1>Portfolio</h1>
 <!-- Paragraph -->
 
- <p><span>Vel tempor referrentur neglegentur cu, mel ut enim iudicabit intellegat, ea putent salutandi quo. Sonet putant graecis ut nec. Magna laoreet consequuntur vis referrentur neglegentur.</span></p>
+ <p><span>Photoshop Work</p>
 	</div>
 			
      
